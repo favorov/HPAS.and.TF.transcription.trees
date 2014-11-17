@@ -1,0 +1,5 @@
+# -2 - no TF, no HPAS
+# -1 - no TF, HPAS
+# 0 - TF not present in expression table
+# 1 - TF, no HPAS
+# 2 - TF, HPAS

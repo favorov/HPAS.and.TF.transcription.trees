@@ -1,0 +1,2505 @@
+CL:0000000	cell
+CL:0000001	primary cell culture cell
+CL:0000003	native cell
+CL:0000004	cell by organism
+CL:0000006	neuronal receptor cell (sensu Animalia)
+CL:0000010	obsolete_cell line cell
+CL:0000012	cell by class
+CL:0000034	stem cell
+CL:0000035	single fate stem cell
+CL:0000037	hematopoietic stem cell
+CL:0000039	germ line cell
+CL:0000047	neuronal stem cell
+CL:0000048	multipotent stem cell
+CL:0000049	common myeloid progenitor
+CL:0000054	bone matrix secreting cell
+CL:0000055	non-terminally differentiated cell
+CL:0000056	myoblast
+CL:0000057	fibroblast
+CL:0000062	osteoblast
+CL:0000063	cell by histology
+CL:0000064	ciliated cell
+CL:0000066	epithelial cell
+CL:0000067	ciliated epithelial cell
+CL:0000068	duct epithelial cell
+CL:0000069	branched duct epithelial cell
+CL:0000071	blood vessel endothelial cell
+CL:0000075	columnar/cuboidal epithelial cell
+CL:0000076	squamous epithelial cell
+CL:0000077	mesothelial cell
+CL:0000079	stratified epithelial cell
+CL:0000080	circulating cell
+CL:0000081	blood cell
+CL:0000082	epithelial cell of lung
+CL:0000083	exocrine pancreas cell
+CL:0000084	T cell
+CL:0000091	Kupffer cell
+CL:0000092	osteoclast
+CL:0000094	granulocyte
+CL:0000095	neuron associated cell
+CL:0000097	mast cell
+CL:0000098	sensory epithelial cell
+CL:0000107	autonomic neuron
+CL:0000115	endothelial cell
+CL:0000117	CNS neuron (sensu Vertebrata)
+CL:0000120	granule cell
+CL:0000123	neuron associated cell (sensu Vertebrata)
+CL:0000125	glial cell
+CL:0000126	macroglial cell
+CL:0000127	astrocyte
+CL:0000128	oligodendrocyte
+CL:0000129	microglial cell
+CL:0000134	mesenchymal cell
+CL:0000135	fibrocyte
+CL:0000136	fat cell
+CL:0000137	osteocyte
+CL:0000138	chondrocyte
+CL:0000144	cell by function
+CL:0000147	pigment cell
+CL:0000148	melanocyte
+CL:0000149	visual pigment cell
+CL:0000150	glandular epithelial cell
+CL:0000151	secretory cell
+CL:0000153	GAG secreting cell
+CL:0000154	protein secreting cell
+CL:0000159	seromucus secreting cell
+CL:0000163	endocrine cell
+CL:0000164	enteroendocrine cell
+CL:0000165	neuroendocrine cell
+CL:0000166	chromaffin cell
+CL:0000167	peptide hormone secreting cell
+CL:0000172	somatostatin secreting cell
+CL:0000173	pancreatic D cell
+CL:0000174	steroid hormone secreting cell
+CL:0000181	metabolising cell
+CL:0000182	hepatocyte
+CL:0000183	contractile cell
+CL:0000186	myofibroblast cell
+CL:0000187	muscle cell
+CL:0000188	skeletal muscle cell
+CL:0000192	smooth muscle cell
+CL:0000197	receptor cell
+CL:0000199	mechanoreceptor cell
+CL:0000202	cochlear hair cell
+CL:0000211	electrically active cell
+CL:0000212	absorptive cell
+CL:0000213	lining cell
+CL:0000214	synovial cell
+CL:0000215	barrier cell
+CL:0000216	Sertoli cell
+CL:0000217	insulating cell
+CL:0000218	Schwann cell
+CL:0000219	motile cell
+CL:0000220	cell by lineage
+CL:0000222	mesodermal cell
+CL:0000224	cell by nuclear number
+CL:0000228	multinucleate cell
+CL:0000235	macrophage
+CL:0000236	B cell
+CL:0000237	keratinizing barrier epithelial cell
+CL:0000239	brush border epithelial cell
+CL:0000240	stratified squamous epithelial cell
+CL:0000242	Merkel cell
+CL:0000243	glial cell (sensu Vertebrata)
+CL:0000244	transitional epithelial cell
+CL:0000255	eukaryotic cell
+CL:0000306	crystallin accumulating cell
+CL:0000307	tracheal epithelial cell
+CL:0000311	keratin accumulating cell
+CL:0000312	keratinocyte
+CL:0000313	serous secreting cell
+CL:0000317	sebum secreting cell
+CL:0000319	mucus secreting cell
+CL:0000322	pneumocyte
+CL:0000325	stuff accumulating cell
+CL:0000327	extracellular matrix secreting cell
+CL:0000328	myelin accumulating cell
+CL:0000333	neural crest cell
+CL:0000342	pigment cell (sensu Vertebrata)
+CL:0000346	hair follicle dermal papilla cell
+CL:0000349	extraembryonic cell
+CL:0000351	trophoblast cell
+CL:0000355	muscle stem cell
+CL:0000359	vascular associated smooth muscle cell
+CL:0000362	epidermal cell
+CL:0000386	attachment cell
+CL:0000388	tendon cell
+CL:0000393	electrically responsive cell
+CL:0000404	electrically signaling cell
+CL:0000412	polyploid cell
+CL:0000414	cell by ploidy
+CL:0000417	endopolyploid cell
+CL:0000447	carbohydrate secreting cell
+CL:0000451	dendritic cell
+CL:0000453	Langerhans cell
+CL:0000457	biogenic amine secreting cell
+CL:0000473	defensive cell
+CL:0000499	stromal cell
+CL:0000501	granulosa cell
+CL:0000502	type D enteroendocrine cell
+CL:0000511	androgen binding protein secreting cell
+CL:0000515	skeletal muscle myoblast
+CL:0000540	neuron
+CL:0000542	lymphocyte
+CL:0000548	animal cell
+CL:0000556	megakaryocyte
+CL:0000557	granulocyte monocyte progenitor cell
+CL:0000558	reticulocyte
+CL:0000566	angioblastic mesenchymal cell
+CL:0000568	APUD cell
+CL:0000569	cardiac mesenchymal cell
+CL:0000575	corneal epithelial cell
+CL:0000576	monocyte
+CL:0000578	experimentally modified cell in vitro
+CL:0000584	enterocyte
+CL:0000586	germ cell
+CL:0000589	cochlear inner hair cell
+CL:0000594	skeletal muscle satellite cell
+CL:0000622	acinar cell
+CL:0000623	natural killer cell
+CL:0000624	CD4-positive, alpha-beta T cell
+CL:0000625	CD8-positive, alpha-beta T cell
+CL:0000627	transporting cell
+CL:0000630	supportive cell
+CL:0000632	hepatic stellate cell
+CL:0000637	chromophil cell of anterior pituitary gland
+CL:0000650	mesangial cell
+CL:0000666	fenestrated cell
+CL:0000667	collagen secreting cell
+CL:0000668	parenchymal cell
+CL:0000669	pericyte cell
+CL:0000677	gut absorptive cell
+CL:0000680	muscle precursor cell
+CL:0000682	M cell
+CL:0000692	terminal Schwann cell
+CL:0000708	leptomeningeal cell
+CL:0000710	neurecto-epithelial cell
+CL:0000723	somatic stem cell
+CL:0000731	urothelial cell
+CL:0000737	striated muscle cell
+CL:0000738	leukocyte
+CL:0000746	cardiac myocyte
+CL:0000763	myeloid cell
+CL:0000764	erythroid lineage cell
+CL:0000765	erythroblast
+CL:0000766	myeloid leukocyte
+CL:0000767	basophil
+CL:0000771	eosinophil
+CL:0000775	neutrophil
+CL:0000784	plasmacytoid dendritic cell
+CL:0000785	mature B cell
+CL:0000786	plasma cell
+CL:0000789	alpha-beta T cell
+CL:0000791	mature alpha-beta T cell
+CL:0000792	CD4-positive, CD25-positive, alpha-beta regulatory T cell
+CL:0000798	gamma-delta T cell
+CL:0000814	mature NK T cell
+CL:0000815	regulatory T cell
+CL:0000817	precursor B cell
+CL:0000819	B-1 B cell
+CL:0000836	promyelocyte
+CL:0000837	hematopoietic multipotent progenitor cell
+CL:0000839	myeloid lineage restricted progenitor cell
+CL:0000840	immature conventional dendritic cell
+CL:0000842	mononuclear cell
+CL:0000855	sensory hair cell
+CL:0000860	classical monocyte
+CL:0000864	tissue-resident macrophage
+CL:0000875	non-classical monocyte
+CL:0000878	central nervous system macrophage
+CL:0000895	naive thymus-derived CD4-positive, alpha-beta T cell
+CL:0000898	naive T cell
+CL:0000911	effector T cell
+CL:0000945	lymphocyte of B lineage
+CL:0000946	antibody secreting cell
+CL:0000988	hematopoietic cell
+CL:0000990	conventional dendritic cell
+CL:0001014	CD1a-positive Langerhans cell
+CL:0001016	immature CD1a-positive Langerhans cell
+CL:0001024	CD34-positive, CD38-negative hematopoietic stem cell
+CL:0001031	cerebellar granule cell
+CL:0001034	cell in vitro
+CL:0002027	CD9-positive, CD41-positive megakaryocyte cell
+CL:0002031	hematopoietic lineage restricted progenitor cell
+CL:0002032	hematopoietic oligopotent progenitor cell
+CL:0002057	CD14-positive, CD16-negative classical monocyte
+CL:0002076	endo-epithelial cell
+CL:0002077	ecto-epithelial cell
+CL:0002078	meso-epithelial cell
+CL:0002087	nongranular leukocyte
+CL:0002092	bone marrow cell
+CL:0002097	cortical cell of adrenal gland
+CL:0002127	innate effector T cell
+CL:0002138	endothelial cell of lymphatic vessel
+CL:0002139	endothelial cell of vascular tree
+CL:0002140	acinar cell of sebaceous gland
+CL:0002144	capillary endothelial cell
+CL:0002149	epithelial cell of uterus
+CL:0002150	epitheloid cell
+CL:0002159	general ecto-epithelial cell
+CL:0002166	epithelial cell of Malassez
+CL:0002167	olfactory epithelial cell
+CL:0002170	keratinized cell of the oral mucosa
+CL:0002173	extraglomerular mesangial cell
+CL:0002174	follicular cell of ovary
+CL:0002178	epithelial cell of stomach
+CL:0002188	glomerular endothelial cell
+CL:0002191	granulocytopoietic cell
+CL:0002193	myelocyte
+CL:0002195	hepatic stem cell
+CL:0002202	epithelial cell of tracheobronchial tree
+CL:0002222	vertebrate lens cell
+CL:0002224	lens epithelial cell
+CL:0002231	epithelial cell of prostate
+CL:0002242	nucleate cell
+CL:0002250	intestinal crypt stem cell
+CL:0002251	epithelial cell of alimentary canal
+CL:0002252	epithelial cell of esophagus
+CL:0002253	epithelial cell of large intestine
+CL:0002255	stromal cell of endometrium
+CL:0002261	endothelial cell of viscerocranial mucosa
+CL:0002262	endothelial cell of sinusoid
+CL:0002274	histamine secreting cell
+CL:0002280	type N enteroendocrine cell
+CL:0002293	epithelial cell of thymus
+CL:0002304	non-pigmented ciliary epithelial cell
+CL:0002306	epithelial cell of proximal tubule
+CL:0002308	epithelial cell of skin gland
+CL:0002315	supporting cell of cochlea
+CL:0002319	neural cell
+CL:0002320	connective tissue cell
+CL:0002321	embryonic cell
+CL:0002322	embryonic stem cell
+CL:0002327	mammary epithelial cell
+CL:0002328	bronchial epithelial cell
+CL:0002334	preadipocyte
+CL:0002336	buccal mucosa cell
+CL:0002363	keratocyte
+CL:0002367	trabecular meshwork cell
+CL:0002368	respiratory epithelial cell
+CL:0002371	somatic cell
+CL:0002372	myotube
+CL:0002374	ear hair cell
+CL:0002376	non-myelinating Schwann cell
+CL:0002377	immature Schwann cell
+CL:0002379	meningothelial cell
+CL:0002393	intermediate monocyte
+CL:0002396	CD14-low, CD16-positive monocyte
+CL:0002397	CD14-positive, CD16-positive monocyte
+CL:0002419	mature T cell
+CL:0002453	oligodendrocyte precursor cell
+CL:0002490	organ of Corti supporting cell
+CL:0002491	auditory epithelial cell
+CL:0002494	cardiocyte
+CL:0002504	enteric smooth muscle cell
+CL:0002518	kidney epithelial cell
+CL:0002521	subcutaneous fat cell
+CL:0002535	epithelial cell of cervix
+CL:0002536	amniotic epithelial cell
+CL:0002537	amnion mesenchymal stem cell
+CL:0002538	intrahepatic bile duct epithelial cell
+CL:0002539	aortic smooth muscle cell
+CL:0002540	mesenchymal stem cell of the bone marrow
+CL:0002541	chorionic membrane mesenchymal stem cell
+CL:0002543	vein endothelial cell
+CL:0002544	aortic endothelial cell
+CL:0002545	thoracic aorta endothelial cell
+CL:0002547	fibroblast of the aortic adventitia
+CL:0002548	cardiac fibroblast
+CL:0002549	fibroblast of choroid plexus
+CL:0002550	fibroblast of the conjuctiva
+CL:0002551	fibroblast of dermis
+CL:0002552	fibroblast of gingiva
+CL:0002553	fibroblast of lung
+CL:0002554	fibroblast of lymphatic vessel
+CL:0002555	fibroblast of mammary gland
+CL:0002556	fibroblast of periodontium
+CL:0002557	fibroblast of pulmonary artery
+CL:0002558	fibroblast of villous mesenchymal
+CL:0002559	hair follicle cell
+CL:0002560	inner root sheath cell
+CL:0002561	outer root sheath cell
+CL:0002562	hair germinal matrix cell
+CL:0002563	intestinal epithelial cell
+CL:0002564	nucleus pulposus cell of intervertebral disc
+CL:0002565	iris pigment epithelial cell
+CL:0002566	dark melanocyte
+CL:0002567	light melanocyte
+CL:0002568	mesenchymal stem cell of Wharton's jelly
+CL:0002569	mesenchymal stem cell of umbilical cord
+CL:0002570	mesenchymal stem cell of adipose
+CL:0002571	hepatic mesenchymal stem cell
+CL:0002572	vertebral mesenchymal stem cell
+CL:0002573	Schwann cell
+CL:0002574	stromal cell of pancreas
+CL:0002575	central nervous system pericyte
+CL:0002576	perineural cell
+CL:0002577	placental epithelial cell
+CL:0002579	omentum preadipocyte
+CL:0002580	preadipocyte of the breast
+CL:0002581	perirenal preadipocyte
+CL:0002582	visceral preadipocyte
+CL:0002583	subcutaneous preadipocyte
+CL:0002584	renal cortical epithelial cell
+CL:0002586	retinal pigment epithelial cell
+CL:0002588	smooth muscle cell of the umbilical vein
+CL:0002589	smooth muscle cell of the brachiocephalic vasculature
+CL:0002590	smooth muscle cell of the brain vasculature
+CL:0002591	smooth muscle cell of the pulmonary artery
+CL:0002592	smooth muscle cell of the coronary artery
+CL:0002593	smooth muscle cell of the internal thoracic artery
+CL:0002594	smooth muscle cell of the umbilical artery
+CL:0002595	smooth muscle cell of the subclavian artery
+CL:0002596	smooth muscle cell of the carotid artery
+CL:0002597	smooth muscle cell of bladder
+CL:0002598	bronchial smooth muscle cell
+CL:0002599	smooth muscle cell of the esophagus
+CL:0002600	smooth muscle cell of trachea
+CL:0002601	uterine smooth muscle cell
+CL:0002602	annulus pulposus cell
+CL:0002603	astrocyte of the cerebellum
+CL:0002604	astrocyte of the hippocampus
+CL:0002605	astrocyte of the cerebral cortex
+CL:0002608	hippocampal neuron
+CL:0002609	neuron of cerebral cortex
+CL:0002610	raphe nuclei neuron
+CL:0002611	neuron of the dorsal spinal cord
+CL:0002612	neuron of the ventral spinal cord
+CL:0002613	striatum neuron
+CL:0002614	neuron of the substantia nigra
+CL:0002615	adipocyte of omentum tissue
+CL:0002616	perirenal adipocyte cell
+CL:0002617	adipocyte of breast
+CL:0002618	endothelial cell of umbilical vein
+CL:0002619	adult endothelial progenitor cell
+CL:0002620	skin fibroblast
+CL:0002621	gingival epithelial cell
+CL:0002622	prostate stromal cell
+CL:0002623	acinar cell of salivary gland
+CL:0002625	seminiferous tubule epithelial cell
+CL:0002632	epithelial cell of lower respiratory tract
+CL:0002677	naive regulatory T cell
+CL:0002679	natural helper lymphocyte
+CL:0002681	kidney cortical cell
+CL:0005012	multi-ciliated epithelial cell
+CL:0005014	auditory epithelial support cell
+CL:1000279	smooth muscle cell of large intestine
+CL:1000280	smooth muscle cell of colon
+CL:1000306	fibroblast of tunica adventitia of artery
+CL:1000398	endothelial cell of hepatic sinusoid
+CL:1000413	endothelial cell of artery
+CL:1000415	epithelial cell of gall bladder
+CL:1000428	stem cell of epidermis
+CL:1000448	epithelial cell of sweat gland
+CL:1000449	epithelial cell of nephron
+CL:1000487	smooth muscle cell of prostate
+CL:1000494	epithelial cell of renal tubule
+CL:1000497	kidney cell
+CL:1000500	kidney interstitial cell
+CL:1000507	kidney tubule cell
+CL:1000600	lower urinary tract cell
+CL:1000612	kidney corpuscule cell
+CL:1000615	kidney cortex tubule cell
+CL:1000618	juxtaglomerular complex cell
+CL:1000746	glomerular cell
+CL:1001318	renal interstitial pericyte
+CL:1001319	bladder cell
+DOID:0014667	disease of metabolism
+DOID:0050155	sensory system disease
+DOID:0050177	monogenic disease
+DOID:0050427	xeroderma pigmentosum
+DOID:0050615	respiratory system cancer
+DOID:0050619	paranasal sinus cancer
+DOID:0050686	organ system cancer
+DOID:0050687	cell type cancer
+DOID:0060058	lymphoma
+DOID:0060060	non-Hodgkin lymphoma
+DOID:0060061	cutaneous T cell lymphoma
+DOID:0060072	benign neoplasm
+DOID:0060073	lymphatic system cancer
+DOID:0060083	immune system cancer
+DOID:0060084	cell type benign neoplasm
+DOID:0060085	organ system benign neoplasm
+DOID:0060100	musculoskeletal system cancer
+DOID:0060116	sensory system cancer
+DOID:0060121	integumentary system benign neoplasm
+DOID:0060122	integumentary system cancer
+DOID:0060158	acquired metabolic disease
+DOID:0070004	myeloma
+DOID:0080000	muscular disease
+DOID:0080014	chromosomal disease
+DOID:10165	endocrine pancreas cancer
+DOID:1036	chronic leukemia
+DOID:1037	lymphoblastic leukemia
+DOID:1040	chronic lymphocytic leukemia
+DOID:10747	lymphoid leukemia
+DOID:1091	tooth disease
+DOID:1115	sarcoma
+DOID:114	heart disease
+DOID:11722	myotonic dystrophy
+DOID:1192	peripheral nervous system neoplasm
+DOID:11983	Prader-Willi syndrome
+DOID:120	female reproductve organ cancer
+DOID:1240	leukemia
+DOID:1242	globe disease
+DOID:12603	acute leukemia
+DOID:127	leiomyoma
+DOID:1287	cardiovascular system disease
+DOID:1324	lung cancer
+DOID:1325	bronchus cancer
+DOID:13359	Ehlers-Danlos syndrome
+DOID:1357	maxillary sinus cancer
+DOID:139	squamous cell papilloma
+DOID:14250	Down syndrome
+DOID:1443	cerebral degeneration
+DOID:14447	gonadal dysgenesis
+DOID:14566	disease of cellular proliferation
+DOID:1485	cystic fibrosis
+DOID:1492	eye and adnexa disease
+DOID:154	mixed cell type cancer
+DOID:1612	breast cancer
+DOID:162	cancer
+DOID:169	neuroendocrine tumor
+DOID:17	musculoskeletal system disease
+DOID:170	endocrine gland cancer
+DOID:171	neuroectodermal tumor
+DOID:1749	squamous cell carcinoma
+DOID:178	vascular disease
+DOID:1781	thyroid cancer
+DOID:1793	pancreatic cancer
+DOID:1798	pancreatic endocrine carcinoma
+DOID:1799	islet cell tumor
+DOID:1907	malignant fibroxanthoma
+DOID:1909	melanoma
+DOID:1927	sphingolipidosis
+DOID:193	reproductive organ cancer
+DOID:1967	leiomyosarcoma
+DOID:200	giant cell tumor
+DOID:201	connective tissue cancer
+DOID:2152	ovary epithelial cancer
+DOID:2174	ocular cancer
+DOID:225	syndrome
+DOID:2355	anemia
+DOID:2368	gangliosidosis
+DOID:2394	ovarian cancer
+DOID:2438	dermis tumor
+DOID:2513	basal cell carcinoma
+DOID:2531	hematologic cancer
+DOID:255	hemangioma
+DOID:2615	papilloma
+DOID:2621	autonomic nervous system neoplasm
+DOID:263	kidney cancer
+DOID:2670	transitional papilloma
+DOID:2671	transitional cell carcinoma
+DOID:285	hairy cell leukemia
+DOID:2962	Cockayne syndrome
+DOID:299	adenocarcinoma
+DOID:2994	germ cell cancer
+DOID:3001	female reproductive endometrioid cancer
+DOID:3030	mucinous adenocarcinoma
+DOID:305	carcinoma
+DOID:3070	malignant glioma
+DOID:3093	nervous system cancer
+DOID:3095	germ cell and embryonal cancer
+DOID:3111	cystadenocarcinoma
+DOID:3112	papillary adenocarcinoma
+DOID:3118	hepatobiliary disease
+DOID:3119	gastrointestinal system cancer
+DOID:3149	keratoacanthoma
+DOID:3151	skin squamous cell carcinoma
+DOID:3165	skin benign  neoplasm
+DOID:3193	peripheral nerve sheath neoplasm
+DOID:3211	lysosomal storage metabolic disease
+DOID:3247	rhabdomyosarcoma
+DOID:326	ischemia
+DOID:3277	thymus cancer
+DOID:3284	thymic carcinoma
+DOID:3307	teratoma
+DOID:331	central nervous system disease
+DOID:3320	Tay-Sachs disease
+DOID:3321	gangliosidosis GM2
+DOID:3347	osteosarcoma
+DOID:3350	mesenchymal cell neoplasm
+DOID:3369	peripheral primitive neuroectodermal tumor
+DOID:3371	chondrosarcoma
+DOID:3394	myocardial ischemia
+DOID:3451	skin carcinoma
+DOID:3491	Turner's syndrome
+DOID:3493	signet ring cell adenocarcinoma
+DOID:3498	pancreatic ductal adenocarcinoma
+DOID:3565	meningioma
+DOID:3571	liver cancer
+DOID:3603	mucinous cystadenocarcinoma
+DOID:3620	central nervous system cancer
+DOID:3650	lactic acidosis
+DOID:3672	rhabdoid cancer
+DOID:3904	bronchogenic carcinoma
+DOID:3905	lung carcinoma
+DOID:3908	non-small cell lung carcinoma
+DOID:3910	lung adenocarcinoma
+DOID:3963	thyroid carcinoma
+DOID:3978	extrinsic cardiomyopathy
+DOID:3996	urinary system cancer
+DOID:4	disease
+DOID:403	mouth disease
+DOID:4043	skeletal muscle cancer
+DOID:4045	muscle cancer
+DOID:4074	pancreas adenocarcinoma
+DOID:409	liver disease
+DOID:4159	skin cancer
+DOID:423	myopathy
+DOID:4230	smooth muscle cancer
+DOID:4231	histiocytoma
+DOID:4235	spindle cell sarcoma
+DOID:4236	carcinosarcoma
+DOID:4305	bone giant cell tumor
+DOID:4362	cervical cancer
+DOID:4418	cutaneous fibrous histiocytoma
+DOID:4430	somatostatinoma
+DOID:4450	renal cell carcinoma
+DOID:4451	renal carcinoma
+DOID:4468	clear cell adenocarcinoma
+DOID:450	myotonic disease
+DOID:4549	extraosseous chondrosarcoma
+DOID:4556	lung large cell carcinoma
+DOID:4645	retinal cancer
+DOID:4830	adenosquamous carcinoma
+DOID:4905	pancreatic carcinoma
+DOID:4929	tubular adenocarcinoma
+DOID:496	spindle cell hemangioma
+DOID:4960	bone marrow cancer
+DOID:5093	thoracic cancer
+DOID:5409	lung small cell carcinoma
+DOID:5614	eye disease
+DOID:5662	pleomorphic carcinoma
+DOID:5679	retinal disease
+DOID:5688	Werner syndrome
+DOID:5844	myocardial infarction
+DOID:5861	myxoid chondrosarcoma
+DOID:6193	epithelioid sarcoma
+DOID:630	genetic disease
+DOID:6496	extraskeletal myxoid chondrosarcoma
+DOID:65	connective tissue disease
+DOID:655	inherited metabolic disorder
+DOID:66	muscle tissue disease
+DOID:688	embryonal cancer
+DOID:7	disease of anatomical entity
+DOID:706	mature B-cell lymphocytic neoplasm
+DOID:707	B-cell lymphocytic neoplasm
+DOID:74	hematopoietic system disease
+DOID:768	retinoblastoma
+DOID:769	neuroblastoma
+DOID:77	gastrointestinal system disease
+DOID:771	retinal cell cancer
+DOID:854	collagen disease
+DOID:8552	chronic myeloid leukemia
+DOID:863	nervous system disease
+DOID:8675	lymphosarcoma
+DOID:8691	mycosis fungoides
+DOID:8692	myeloid leukemia
+DOID:893	Wilson disease
+DOID:896	metal metabolism disorder
+DOID:9119	acute myeloid leukemia
+DOID:936	brain disease
+DOID:9455	lipid storage disease
+DOID:9597	Krukenberg carcinoma
+DOID:962	neurofibroma
+DOID:9893	periodontosis
+EFO:0000001	experimental factor
+EFO:0000324	cell type
+EFO:0000369	compound based treatment
+EFO:0000408	disease
+EFO:0000544	infection
+EFO:0000602	BALB/c
+EFO:0000606	C57BL/6J
+EFO:0000635	organism part
+EFO:0000683	replicate
+EFO:0000684	respiratory system disease
+EFO:0000700	integumental cell
+EFO:0000727	treatment
+EFO:0000771	bacterial disease
+EFO:0000774	tuberculosis
+EFO:0000786	anatomy basic component
+EFO:0000787	animal component
+EFO:0000801	muscular system
+EFO:0000809	animal reproductive system
+EFO:0000970	male reproductive system
+EFO:0000984	testis
+EFO:0001426	study design
+EFO:0001461	control
+EFO:0001746	development or differentiation design
+EFO:0001949	muscle
+EFO:0002090	technical replicate
+EFO:0002091	biological replicate
+EFO:0002694	experimental process
+EFO:0002955	reproductive system cell
+EFO:0002956	musculo-skeletal system cell
+EFO:0002962	animal reproductive system cell
+EFO:0002963	nervous system cell
+EFO:0002966	pancreatic cell
+EFO:0003818	lung disease
+EFO:0003858	skeleton structure
+EFO:0003864	genitourinary system
+FF:0000001	FANTOM5 Sample Ontology
+FF:0000002	in vivo cell sample
+FF:0000003	cell line sample
+FF:0000004	tissue sample
+FF:0000009	amniotic epithelial cell
+FF:0000010	amniotic membrane cell- Amnion
+FF:0000011	subcutaneous adipocyte
+FF:0000012	alveolar epithelial cell
+FF:0000013	basophil
+FF:0000014	intrahepatic biliary epithelial cell
+FF:0000015	bronchial epithelial cell
+FF:0000016	canine sample
+FF:0000017	canine aortic smooth muscle cell
+FF:0000018	canine hepatocyte
+FF:0000019	canine mesenchymal stem cell
+FF:0000020	CD133-positive progenitor cell- bone marrow derived
+FF:0000021	hematopoeitic stem cell
+FF:0000022	CD133-positive stem cell - cord blood derived
+FF:0000023	CD133-positive hematopoietic stem cell-3HBiomedical
+FF:0000024	CD14-positive monocyte
+FF:0000025	CD19-positive B cell
+FF:0000026	CD34-positive hematopoietic stem cell
+FF:0000027	CD133-positive hematopoeitic stem cell
+FF:0000030	CD8-positive T cell
+FF:0000031	CD4-positive T cell
+FF:0000032	chicken sample
+FF:0000033	chicken aortic smooth muscle cell
+FF:0000034	chicken hepatocyte
+FF:0000035	chicken mesenchymal stem cell
+FF:0000037	chondrocyte
+FF:0000038	chorionic membrane stem cell
+FF:0000039	adipocyte of omentum tissue
+FF:0000040	ciliary epithelial cell
+FF:0000041	common myeloid progenitor
+FF:0000042	pancreatic stromal cell
+FF:0000043	corneal epithelial cell
+FF:0000044	monocyte immature derived dendritic cell
+FF:0000045	plasmacytoid dendritic cell
+FF:0000046	endothelial cell
+FF:0000047	endothelial cell of the artery
+FF:0000048	endothelial cell of the aorta
+FF:0000049	lymphatic endothelial cell
+FF:0000050	microvascular endothelial cell
+FF:0000051	thoracic endothelial cell
+FF:0000052	endothelial cell of the vein
+FF:0000054	eosinophil
+FF:0000056	epithelial cell of esophagus
+FF:0000057	fibroblast
+FF:0000058	fibroblast of the aortic adventitia
+FF:0000059	cardiac fibroblast
+FF:0000060	fibroblast of choroid plexus
+FF:0000061	fibroblast of conjuctivia
+FF:0000062	dermal fibroblast
+FF:0000063	fibroblast of gingiva
+FF:0000064	fibroblast of lung
+FF:0000065	fibroblast of lymphatic vessel
+FF:0000066	fibroblast of mammary gland
+FF:0000067	fibroblast of periodontium
+FF:0000068	fibroblast of pulmonary artery
+FF:0000069	fibroblast of villous mesenchyme
+FF:0000070	granulocyte macrophage progenitor cell
+FF:0000071	hair follicle dermal papilla cell
+FF:0000072	hair follicle cell
+FF:0000073	hair follicle germinal matrix cell
+FF:0000074	inner root sheat cell
+FF:0000075	outer root sheath cell
+FF:0000076	hepatic sinusoidal endothelial cell
+FF:0000077	hepatic stellate cell
+FF:0000078	human hepatocyte
+FF:0000079	Lgr5-positive intestinal epithelial stem cell
+FF:0000080	intestinal epithelial cell
+FF:0000081	iris pigment epithelial cell
+FF:0000082	epidermal keratinocyte
+FF:0000083	oral mucosa keratinocyte
+FF:0000084	keratocyte
+FF:0000085	lens epithelial cell
+FF:0000086	macrophage
+FF:0000087	Malassez derived epithelial cell
+FF:0000088	mammary epithelial cell
+FF:0000089	dark melanocyte
+FF:0000090	light melanocyte
+FF:0000091	leptomeningeal cell
+FF:0000092	amniotic membrane cell
+FF:0000093	vertebral mesenchymal stem cell
+FF:0000094	mesenchymal stem cell of umbilical cord-Sciencell
+FF:0000095	mesenchymal stem cell of Wharton's jelly
+FF:0000096	mesenchymal stem cell of adipose
+FF:0000097	human mesenchymal stem cell of bone marrow
+FF:0000098	hepatic mesenchymal stem cell
+FF:0000099	mesothelial cell
+FF:0000100	microglial cell
+FF:0000101	sample by species
+FF:0000102	sample by type
+FF:0000103	mouse sample
+FF:0000104	mouse aortic smooth muscle cell
+FF:0000105	mouse astrocyte
+FF:0000106	mouse cardiac myocyte
+FF:0000107	mouse embryonic fibroblast
+FF:0000108	mouse granule cell
+FF:0000109	mouse hepatocyte
+FF:0000110	mouse fibroblast of lymphatic vessel
+FF:0000111	mouse leptomeningeal cell
+FF:0000112	mouse mesenchymal stem cell of bone marrow
+FF:0000113	mouse microglial cell
+FF:0000114	mouse pituitary cell
+FF:0000115	mouse kidney epithelial cell
+FF:0000116	mouse Schwann cell
+FF:0000117	mesenchymal stem cell of umbilical cord blood
+FF:0000118	cardiac myocyte
+FF:0000119	natural killer cell
+FF:0000120	neural stem cell
+FF:0000122	neutrophil
+FF:0000123	nucleus pulposus cell of intervertebral disc
+FF:0000125	oligodendrocyte precursor
+FF:0000126	oligospheres
+FF:0000127	osteoblast-Sciencell
+FF:0000128	osteoblast-Cell applications
+FF:0000133	pericyte
+FF:0000134	perineural cell
+FF:0000135	peripheral blood mononuclear cell
+FF:0000136	placental epithelial cell
+FF:0000137	preadipocyte
+FF:0000139	preadipocyte of the breast
+FF:0000140	omentum preadipocyte
+FF:0000141	perirenal preadipocyte
+FF:0000142	subcutaneous preadipocyte
+FF:0000143	visceral preadipocyte
+FF:0000144	promyelocyte/myelocyte
+FF:0000145	prostate epithelial cell
+FF:0000146	stromal cell of pancreas
+FF:0000147	rat sample
+FF:0000148	rat aortic smooth muscle cell
+FF:0000149	rat mesenchymal bone cell
+FF:0000150	rat hepatocyte
+FF:0000151	renal epithelial cell
+FF:0000152	renal cortical epithelial cell
+FF:0000153	renal glomerular endothelial cell
+FF:0000154	renal mesangial cell
+FF:0000155	renal proximal tubular epithelial cell
+FF:0000156	adipocyte of breast
+FF:0000158	retinal pigment epithelial cell
+FF:0000159	Schwann cell
+FF:0000160	sebocyte
+FF:0000161	sertoli cell
+FF:0000162	skeletal muscle cell
+FF:0000164	skeletal muscle myoblast
+FF:0000165	skeletal muscle satellite cell
+FF:0000166	small airway epithelial cell
+FF:0000167	smooth muscle cell sample
+FF:0000168	human aortic smooth muscle cell
+FF:0000169	smooth muscle cell of the brachiocephalic vasculature
+FF:0000170	smooth muscle cell of the brain vasculature
+FF:0000171	smooth muscle cell of the carotid artery
+FF:0000172	smooth muscle cell of coronary artery
+FF:0000173	smooth muscle cell of the internal thoracic artery
+FF:0000174	smooth muscle cell of pulmonary artery
+FF:0000175	smooth muscle cell of subclavian artery
+FF:0000176	smooth muscle cell of umbilical artery
+FF:0000177	smooth muscle cell of umbilical vein
+FF:0000178	smooth muscle cell of bladder
+FF:0000179	bronchial smooth muscle cell
+FF:0000180	smooth muscle cell of intestine
+FF:0000181	smooth muscle of colon
+FF:0000182	esophageal smooth muscle cell
+FF:0000183	smooth muscle cell of prostate
+FF:0000184	smooth muscle cell of trachea
+FF:0000185	uterine smooth muscle cell
+FF:0000187	synovial cell
+FF:0000188	trabecular meshwork cell
+FF:0000189	tracheal epithelial cell
+FF:0000190	trophoblast
+FF:0000191	urothelial cell
+FF:0000192	anulus pulposus cell
+FF:0000194	astrocyte of the cerebral cortex
+FF:0000195	astrocyte of the cerebellum
+FF:0000196	mouse astrocyte of cerebellum
+FF:0000197	mouse astrocyte of hippocampus
+FF:0000199	cerebellar granule cell
+FF:0000201	hippocampal neuron
+FF:0000202	mouse hippocampal neuron
+FF:0000203	mouse neuron samples
+FF:0000204	cortical mouse neuron
+FF:0000205	mouse raphe nuclei neuron
+FF:0000206	mouse neuron of the dorsal spinal cord
+FF:0000207	mouse neuron of the ventral spinal cord
+FF:0000208	mouse neuron of the substantia nigra
+FF:0000209	mouse striatal neuron
+FF:0000210	human sample
+FF:0000211	perirenal adipocyte cell
+FF:0000212	basophil heparinase treated
+FF:0000213	canine aortic smooth muscle cell- differentiated
+FF:0000214	CD15-positive granulocyte
+FF:0000215	chicken aortic smooth muscle cell- differentiated
+FF:0000216	chicken extraembryonic
+FF:0000217	chicken whole embryo
+FF:0000218	chicken embryo extraembryonic tissue day7 HH32
+FF:0000219	chicken embryo extraembryonic tissue day15 HH41
+FF:0000220	chicken embryo whole body 1.5 hours HH1
+FF:0000221	chicken embryo whole body 14 hours HH3
+FF:0000222	chicken embryo whole body 18 hours HH4
+FF:0000223	chicken embryo whole body 22 hours HH5-6
+FF:0000224	chicken embryo whole body 5.5 hours HH1
+FF:0000225	chicken embryo whole body 6 hours HH1-2
+FF:0000226	chicken embryo whole body day1 HH7 1-3 somites
+FF:0000227	chicken embryo whole body day1 HH7 2-3 somites
+FF:0000228	chicken embryo whole body day1.5 HH10
+FF:0000230	chicken embryo whole body day1.5 HH11-12
+FF:0000231	chicken embryo whole body day 15 HH11-12
+FF:0000232	chicken embryo whole body day2 HH13
+FF:0000233	chicken embryo whole body day2 HH14
+FF:0000234	chicken embryo whole body day2.5 HH17
+FF:0000235	chicken embryo whole body day20 HH45
+FF:0000236	chicken embryo whole body day3 HH19
+FF:0000237	chicken embryo whole body day3 HH20
+FF:0000238	chicken embryo whole body day4 HH23
+FF:0000239	chicken embryo whole body day5 HH25-27
+FF:0000240	chicken embryo whole body day5 HH26-27
+FF:0000241	chicken embryo whole body day7 HH32
+FF:0000242	chicken developmental series
+FF:0000243	chicken wing bud day 3 HH20
+FF:0000244	chicken leg bud day3 HH20
+FF:0000245	chondrocyte re-differentiated
+FF:0000246	chondrocyte de-differentiated
+FF:0000247	endothelial cell of umbilical vein
+FF:0000248	endothelial progenitor cell
+FF:0000249	eosinophil- heparinase treated
+FF:0000250	fibroblast of skin
+FF:0000251	fibroblast - skin spinal muscular atrophy
+FF:0000252	fibroblast - skin walker warburg
+FF:0000253	fibroblast- skin dystrophia myotonica
+FF:0000254	gingival epithelial cell
+FF:0000255	inner hair stem cell
+FF:0000256	Inner ear stem cell (1st generation stem cell)
+FF:0000257	Inner ear stem cells (4th generation stem cells)
+FF:0000258	Inner ear stem cell (10 days differentiation)
+FF:0000259	Inner ear stem cell (3 days differentiation)
+FF:0000260	mast cell
+FF:0000261	mast cell- heparinase treated
+FF:0000262	mast cell- stimulated
+FF:0000263	mast cell- stimulated and heparinase treated
+FF:0000264	inner hair cell
+FF:0000265	Atoh-positive inner hair cell
+FF:0000266	mature adipocyte
+FF:0000267	mouse muscle derived stem cell
+FF:0000268	cancer related muscle derived stem cell (Mouse)
+FF:0000269	mesenchymal precursor cell of bone marrow
+FF:0000270	mesenchymal precursor cell of adipose
+FF:0000271	cardiac mesenchymal precursor cell
+FF:0000272	ovarian cancer mesenchymal precursor cell
+FF:0000273	mesenchymal precursor cell- ovarian cancer-left ovary
+FF:0000274	mesenchymal precursor cell- ovarian cancer-metastasis
+FF:0000275	mesenchymal precursor cell- ovarian cancer-right ovary
+FF:0000276	amniotic membrane cell- fetal
+FF:0000277	prostate stromal cell
+FF:0000278	salivary acinar cell
+FF:0000279	Sox2-positive supporting cell- organ of corti
+FF:0000280	tenocyte
+FF:0000281	whole blood
+FF:0000282	Whole blood depleted of CD14-positive and CD15-positive cells (pluriselect depleted)
+FF:0000283	Whole blood depleted of CD19+ cells (pluriselect depleted)
+FF:0000284	Whole blood depleted of CD4+ and CD8+ cells (pluriselect depleted)
+FF:0000292	embryonic day sample - mouse
+FF:0000293	embryonic day 13
+FF:0000294	embryonic day 11
+FF:0000295	embryonic day 12
+FF:0000296	embryonic day 14
+FF:0000298	embryonic day 15
+FF:0000299	embryonic day 16
+FF:0000300	embryonic day 17
+FF:0000301	embryonic day 17.5
+FF:0000302	embryonic day 18
+FF:0000303	neonate sample - mouse
+FF:0000304	neonate N0
+FF:0000305	neonate N10
+FF:0000306	neonate N16
+FF:0000307	neonate N2
+FF:0000308	neonate N20
+FF:0000309	neonate N25
+FF:0000310	neonate N30
+FF:0000311	neonate N3
+FF:0000312	neonate N6
+FF:0000313	neonate N7
+FF:0000314	neonate N9
+FF:0000315	neonate N60-70
+FF:0000316	neonate N15
+FF:0000317	mouse pregnant tissue sample
+FF:0000318	mouse pregnant day 1
+FF:0000320	mouse pregnant day 10
+FF:0000321	mouse pregnant day 17
+FF:0000322	mouse pregnant day 17.5
+FF:0000323	mouse pregnant day 18
+FF:0000324	mouse lactating sample
+FF:0000329	adipogenic induction
+FF:0000330	EGF1 treatment
+FF:0000331	HRG treatment
+FF:0000332	calcification induced with ascorbate and BPG
+FF:0000333	medium change
+FF:0000334	melanocytic induction
+FF:0000335	LPS treatment
+FF:0000336	osteogenic induction
+FF:0000337	erythropoietin treatment
+FF:0000338	hemin treatment
+FF:0000339	FGF2 treatment
+FF:0000340	IL1-beta treatment
+FF:0000341	Vegfc treatment
+FF:0000342	T-cell induction
+FF:0000343	control treatment
+FF:0000344	0 minute
+FF:0000345	15 minutes
+FF:0000346	30 minutes
+FF:0000347	45 minutes
+FF:0000348	human neuron samples
+FF:0000349	60 minutes
+FF:0000350	experimentally modified sample
+FF:0000351	80 minutes
+FF:0000352	100 minutes
+FF:0000353	120 minutes
+FF:0000354	150 minutes
+FF:0000355	180 minutes
+FF:0000356	210 minutes
+FF:0000357	0 hr
+FF:0000358	1 hr
+FF:0000359	2 hr
+FF:0000360	3 hr
+FF:0000361	4 hr
+FF:0000362	5 hr
+FF:0000363	6 hr
+FF:0000364	7 hr
+FF:0000365	8 hr
+FF:0000366	10 hr
+FF:0000367	12 hr
+FF:0000368	14 hr
+FF:0000369	16 hr
+FF:0000370	18 hr
+FF:0000371	20 hr
+FF:0000372	22 hr
+FF:0000373	24 hr
+FF:0000374	36 hr
+FF:0000375	48 hr
+FF:0000376	72 hr
+FF:0000377	96 hr
+FF:0000378	120 hr
+FF:0000379	144 hr
+FF:0000380	0 days
+FF:0000381	1 days
+FF:0000382	2 days
+FF:0000383	3 days
+FF:0000384	4 days
+FF:0000385	6 days
+FF:0000386	7 days
+FF:0000387	8 days
+FF:0000388	9 days
+FF:0000389	12 days
+FF:0000390	14 days
+FF:0000391	15 days
+FF:0000392	18 days
+FF:0000393	21 days
+FF:0000394	24 days
+FF:0000395	27 days
+FF:0000396	28 days
+FF:0000397	30 days
+FF:0000398	34 days
+FF:0000399	41 days
+FF:0000400	H9 embryonic stem cell line
+FF:0000401	erythroblastic leukemia cell line
+FF:0000402	K562 erythroblastic leukemia cell line
+FF:0000403	J2E erythroblastic leukemia cell line
+FF:0000404	mesenchymal stem cell line: ST2
+FF:0000405	cytoplasmic fraction
+FF:0000406	nuclear fraction
+FF:0000407	whole cell (cellular fractionation control)
+FF:0000408	cellular fractionation
+FF:0000409	T cell expansion
+FF:0000410	Lymphatic Endothelial cells 0min after VEGFC treatment
+FF:0000411	Lymphatic Endothelial cells 15min after VEGFC treatment
+FF:0000412	Lymphatic Endothelial cells 30min after VEGFC treatment
+FF:0000413	Lymphatic Endothelial cells 45min after VEGFC treatment
+FF:0000414	Lymphatic Endothelial cells 1hr after VEGFC treatment
+FF:0000415	Lymphatic Endothelial cells 80min  after VEGFC treatment
+FF:0000416	Lymphatic Endothelial cells 100min after VEGFC treatment
+FF:0000417	Lymphatic Endothelial cells 2h after VEGFC treatment
+FF:0000418	Lymphatic Endothelial cells 2.5h after VEGFC treatment
+FF:0000419	Lymphatic Endothelial cells 3h after VEGFC treatment
+FF:0000420	Lymphatic Endothelial cells 3.5h after VEGFC treatment
+FF:0000421	Lymphatic Endothelial cells 4h after VEGFC treatment
+FF:0000422	Lymphatic Endothelial cells 5h after VEGFC treatment
+FF:0000423	Lymphatic Endothelial cells 6h after VEGFC treatment
+FF:0000424	Lymphatic Endothelial cells 7h after VEGFC treatment
+FF:0000425	Lymphatic Endothelial cells 8h after VEGFC treatment
+FF:0000426	MCF7 breast cancer cell line 0min after EGF1 treatment
+FF:0000427	MCF7 breast cancer cell line 15min after EGF1 treatment
+FF:0000428	MCF7 breast cancer cell line 30min after EGF1 treatment
+FF:0000429	MCF7 breast cancer cell line 45min after EGF1 treatment
+FF:0000430	MCF7 breast cancer cell line 1hr after EGF1 treatment
+FF:0000431	MCF7 breast cancer cell line 80min  after EGF1 treatment
+FF:0000432	MCF7 breast cancer cell line 100min after EGF1 treatment
+FF:0000433	MCF7 breast cancer cell line 2h after EGF1 treatment
+FF:0000434	MCF7 breast cancer cell line 2.5h after EGF1 treatment
+FF:0000435	MCF7 breast cancer cell line 3h after EGF1 treatment
+FF:0000436	MCF7 breast cancer cell line 3.5h after EGF1 treatment
+FF:0000437	MCF7 breast cancer cell line 4h after EGF1 treatment
+FF:0000438	MCF7 breast cancer cell line 5h after EGF1 treatment
+FF:0000439	MCF7 breast cancer cell line 6h after EGF1 treatment
+FF:0000440	MCF7 breast cancer cell line 7h after EGF1 treatment
+FF:0000441	MCF7 breast cancer cell line 8h after EGF1 treatment
+FF:0000443	MCF7 breast cancer cell line 15min after HRG treatment
+FF:0000444	MCF7 breast cancer cell line 30min after HRG treatment
+FF:0000445	MCF7 breast cancer cell line 45min after HRG treatment
+FF:0000446	MCF7 breast cancer cell line 1hr after HRG treatment
+FF:0000447	MCF7 breast cancer cell line 80min  after HRG treatment
+FF:0000448	MCF7 breast cancer cell line 100min after HRG treatment
+FF:0000449	MCF7 breast cancer cell line 2h after HRG treatment
+FF:0000450	MCF7 breast cancer cell line 2.5h after HRG treatment
+FF:0000451	MCF7 breast cancer cell line 3h after HRG treatment
+FF:0000452	MCF7 breast cancer cell line 3.5h after HRG treatment
+FF:0000453	MCF7 breast cancer cell line 4h after HRG treatment
+FF:0000454	MCF7 breast cancer cell line 5h after HRG treatment
+FF:0000455	MCF7 breast cancer cell line 6h after HRG treatment
+FF:0000456	MCF7 breast cancer cell line 7h after HRG treatment
+FF:0000457	MCF7 breast cancer cell line 8h after HRG treatment
+FF:0000458	ST2 Mesenchymal stem cells, cells 15 min  after adipogenic induction
+FF:0000459	ST2 Mesenchymal stem cells, cells 30 min  after adipogenic induction
+FF:0000460	ST2 Mesenchymal stem cells, cells 1hr  after adipogenic induction
+FF:0000461	ST2 Mesenchymal stem cells, cells 2hr  after adipogenic induction
+FF:0000462	ST2 Mesenchymal stem cells, cells 3hr after adipogenic induction
+FF:0000463	ST2 Mesenchymal stem cells, cells 6hr after adipogenic induction
+FF:0000464	ST2 Mesenchymal stem cells, cells 12hr after adipogenic induction
+FF:0000465	ST2 Mesenchymal stem cells, cells 18hr after adipogenic induction
+FF:0000466	ST2 Mesenchymal stem cells, cells 24hr after adipogenic induction
+FF:0000467	ST2 Mesenchymal stem cells, cells 36hr after adipogenic induction
+FF:0000468	ST2 Mesenchymal stem cells, cells 48hr after adipogenic induction
+FF:0000469	ST2 Mesenchymal stem cells, cells 72hr after adipogenic induction
+FF:0000470	ST2 Mesenchymal stem cells, cells 96hr after adipogenic induction
+FF:0000471	ST2 Mesenchymal stem cells, cells 120hr after adipogenic induction
+FF:0000472	ST2 Mesenchymal stem cells, cells 144hr after adipogenic induction
+FF:0000473	ST2 Mesenchymal stem cells, cells 15 min after osteogenic induction
+FF:0000474	ST2 Mesenchymal stem cells, cells 30 minafter osteogenic induction
+FF:0000475	ST2 Mesenchymal stem cells, cells 1hr after osteogenic induction
+FF:0000476	ST2 Mesenchymal stem cells, cells 2hr after osteogenic induction
+FF:0000477	ST2 Mesenchymal stem cells, cells 3hr after osteogenic induction
+FF:0000478	ST2 Mesenchymal stem cells, cells 6hr after osteogenic induction
+FF:0000479	ST2 Mesenchymal stem cells, cells 12hr after osteogenic induction
+FF:0000480	ST2 Mesenchymal stem cells, cells 18hr after osteogenic induction
+FF:0000481	ST2 Mesenchymal stem cells, cells 24hr after osteogenic induction
+FF:0000482	ST2 Mesenchymal stem cells, cells 36hr after osteogenic induction
+FF:0000483	ST2 Mesenchymal stem cells, cells 48hr after osteogenic induction
+FF:0000484	ST2 Mesenchymal stem cells, cells 72hr after osteogenic induction
+FF:0000485	ST2 Mesenchymal stem cells, cells 96hr after osteogenic induction
+FF:0000486	ST2 Mesenchymal stem cells, cells 120hr after osteogenic induction
+FF:0000487	ST2 Mesenchymal stem cells, cells 144hr after osteogenic induction
+FF:0000488	ST2 Mesenchymal stem cells, cells 0hr after medium change , without induction
+FF:0000489	ST2 Mesenchymal stem cells, cells 1hr after medium change , without induction
+FF:0000490	ST2 Mesenchymal stem cells, cells 6hr after medium change , without induction
+FF:0000491	ST2 Mesenchymal stem cells, cells 12hr after medium change , without induction
+FF:0000492	ST2 Mesenchymal stem cells, cells 24hr after medium change , without induction
+FF:0000493	ST2 Mesenchymal stem cells, cells 48hr after medium change , without induction
+FF:0000494	ST2 Mesenchymal stem cells, cells 72hr after medium change , without induction
+FF:0000495	ST2 Mesenchymal stem cells, cells 96hr after medium change , without induction
+FF:0000496	ST2 Mesenchymal stem cells, cells 120hr after medium change , without induction
+FF:0000497	ST2 Mesenchymal stem cells, cells 144hr after medium change , without induction
+FF:0000498	J2E erythroblastic leukemia line 0min after treatment with erythropoietin
+FF:0000499	J2E erythroblastic leukemia line 15min after treatment with erythropoietin
+FF:0000500	J2E erythroblastic leukemia line 30min after treatment with erythropoietin
+FF:0000501	J2E erythroblastic leukemia line 45min after treatment with erythropoietin
+FF:0000502	J2E erythroblastic leukemia line 1hr after treatment with erythropoietin
+FF:0000503	J2E erythroblastic leukemia line 1hr 20min after treatment with erythropoietin
+FF:0000504	J2E erythroblastic leukemia line 1hr 40min after treatment with erythropoietin
+FF:0000505	J2E erythroblastic leukemia line 2hr after treatment with erythropoietin
+FF:0000506	J2E erythroblastic leukemia line 2hr 30min after treatment with erythropoietin
+FF:0000507	J2E erythroblastic leukemia line 3hr after treatment with erythropoietin
+FF:0000508	J2E erythroblastic leukemia line 3hr 30min after treatment with erythropoietin
+FF:0000509	J2E erythroblastic leukemia line 4hr after treatment with erythropoietin
+FF:0000510	J2E erythroblastic leukemia line 6hr after treatment with erythropoietin
+FF:0000511	J2E erythroblastic leukemia line 12hr after treatment with erythropoietin
+FF:0000512	J2E erythroblastic leukemia line 24hr after treatment with erythropoietin
+FF:0000513	J2E erythroblastic leukemia line 48hr after treatment with erythropoietin
+FF:0000514	K562 erythroblastic leukemia line 0min after treatment with hemin
+FF:0000515	K562 erythroblastic leukemia line 15min after treatment with hemin
+FF:0000516	K562 erythroblastic leukemia line 30min after treatment with hemin
+FF:0000517	K562 erythroblastic leukemia line 45min after treatment with hemin
+FF:0000518	K562 erythroblastic leukemia line 1hr after treatment with hemin
+FF:0000519	K562 erythroblastic leukemia line 1hr 20min after treatment with hemin
+FF:0000520	K562 erythroblastic leukemia line 1hr 40min after treatment with hemin
+FF:0000521	K562 erythroblastic leukemia line 2hr after treatment with hemin
+FF:0000522	K562 erythroblastic leukemia line 2hr 30min after treatment with hemin
+FF:0000523	K562 erythroblastic leukemia line 3hr after treatment with hemin
+FF:0000524	K562 erythroblastic leukemia line 3hr 30min after treatment with hemin
+FF:0000525	K562 erythroblastic leukemia line 4hr after treatment with hemin
+FF:0000526	K562 erythroblastic leukemia line 6hr after treatment with hemin
+FF:0000527	K562 erythroblastic leukemia line 12hr after treatment with hemin
+FF:0000528	K562 erythroblastic leukemia line 24hr after treatment with hemin
+FF:0000529	K562 erythroblastic leukemia line 48hr after treatment with hemin
+FF:0000530	K562 erythroblastic leukemia line 72hr after treatment with hemin
+FF:0000531	K562 erythroblastic leukemia line 96hr after treatment with hemin
+FF:0000532	H9 Embryoid body cells 0 days after melanocytic induction
+FF:0000533	H9 Embryoid body cells 1 day after melanocytic induction
+FF:0000534	H9 Embryoid body cells 3 days after melanocytic induction
+FF:0000535	H9 Embryoid body cells 6 days after melanocytic induction
+FF:0000536	H9 Embryoid body cells 9 days after melanocytic induction
+FF:0000537	H9 Embryoid body cells 12 days after melanocytic induction
+FF:0000538	H9 Embryoid body cells 15 days after melanocytic induction
+FF:0000539	H9 Embryoid body cells 18 days after melanocytic induction
+FF:0000540	H9 Embryoid body cells 21 days after melanocytic induction
+FF:0000541	H9 Embryoid body cells 24 days after melanocytic induction
+FF:0000542	H9 Embryoid body cells 27 days after melanocytic induction
+FF:0000543	H9 Embryoid body cells 30 days after melanocytic induction
+FF:0000544	H9 Embryoid body cells 34 days after melanocytic induction
+FF:0000545	H9 Embryoid body cells 41 days after melanocytic induction
+FF:0000546	Aortic Smooth Muscle cells 0min after treatment with FGF2
+FF:0000547	Aortic Smooth Muscle cells 15min after treatment with FGF2
+FF:0000548	Aortic Smooth Muscle cells 30min after treatment with FGF2
+FF:0000549	Aortic Smooth Muscle cells 45min after treatment with FGF2
+FF:0000550	Aortic Smooth Muscle cells 1hr after treatment with FGF2
+FF:0000551	Aortic Smooth Muscle cells 2hr after treatment with FGF2
+FF:0000552	Aortic Smooth Muscle cells 3hr after treatment with FGF2
+FF:0000553	Aortic Smooth Muscle cells 4hr after treatment with FGF2
+FF:0000554	Aortic Smooth Muscle cells 5hr after treatment with FGF2
+FF:0000555	Aortic Smooth Muscle cells 6hr after treatment with FGF2
+FF:0000556	Aortic Smooth Muscle cells 0min after treatment with IL1b
+FF:0000557	Aortic Smooth Muscle cells 15min after treatment with IL1b
+FF:0000558	Aortic Smooth Muscle cells 30min after treatment with IL1b
+FF:0000559	Aortic Smooth Muscle cells 45min after treatment with IL1b
+FF:0000560	Aortic Smooth Muscle cells 1hr after treatment with IL1b
+FF:0000561	Aortic Smooth Muscle cells 2hr after treatment with IL1b
+FF:0000562	Aortic Smooth Muscle cells 3hr after treatment with IL1b
+FF:0000563	Aortic Smooth Muscle cells 4hr after treatment with IL1b
+FF:0000564	Aortic Smooth Muscle cells 5hr after treatment with IL1b
+FF:0000565	Aortic Smooth Muscle cells 6hr after treatment with IL1b
+FF:0000566	Monocyte-derived macrophages 0min after LPS treatment
+FF:0000567	Monocyte-derived macrophages 15min after LPS treatment
+FF:0000568	Monocyte-derived macrophages 30min after LPS treatment
+FF:0000569	Monocyte-derived macrophages 45min after LPS treatment
+FF:0000570	Monocyte-derived macrophages 1h after LPS treatment
+FF:0000571	Monocyte-derived macrophages 80min after LPS treatment
+FF:0000572	Monocyte-derived macrophages 100min after LPS treatment
+FF:0000573	Monocyte-derived macrophages 2h after LPS treatment
+FF:0000574	Monocyte-derived macrophages 2.5h after LPS treatment
+FF:0000575	Monocyte-derived macrophages 3h after LPS treatment
+FF:0000576	Monocyte-derived macrophages 3.5h after LPS treatment
+FF:0000577	Monocyte-derived macrophages 4h after LPS treatment
+FF:0000578	Monocyte-derived macrophages 5h after LPS treatment
+FF:0000579	Monocyte-derived macrophages 6h after LPS treatment
+FF:0000580	Monocyte-derived macrophages 7h after LPS treatment
+FF:0000581	Monocyte-derived macrophages 8h after LPS treatment
+FF:0000582	Monocyte-derived macrophages 10h after LPS treatment
+FF:0000583	Monocyte-derived macrophages 12h after LPS treatment
+FF:0000584	Monocyte-derived macrophages 14h after LPS treatment
+FF:0000585	Monocyte-derived macrophages 16h after LPS treatment
+FF:0000586	Monocyte-derived macrophages 18h after LPS treatment
+FF:0000587	Monocyte-derived macrophages 20h after LPS treatment
+FF:0000588	Monocyte-derived macrophages 22h after LPS treatment
+FF:0000589	Monocyte-derived macrophages 24h after LPS treatment
+FF:0000590	Monocyte-derived macrophages 36h after LPS treatment
+FF:0000591	Monocyte-derived macrophages 48h after LPS treatment
+FF:0000592	H9 Embryonic Stem cells
+FF:0000593	Saos2 osteosarcoma cell line 0min after induction of calcification with ascorbate and BPG
+FF:0000594	Saos2 osteosarcoma cell line 15min after induction of calcification with ascorbate and BPG
+FF:0000595	Saos2 osteosarcoma cell line 30min after induction of calcification with ascorbate and BPG
+FF:0000596	Saos2 osteosarcoma cell line 45min after induction of calcification with ascorbate and BPG
+FF:0000597	Saos2 osteosarcoma cell line 60min after induction of calcification with ascorbate and BPG
+FF:0000598	Saos2 osteosarcoma cell line 80min after induction of calcification with ascorbate and BPG
+FF:0000599	Saos2 osteosarcoma cell line 100min after induction of calcification with ascorbate and BPG
+FF:0000600	Saos2 osteosarcoma cell line 2h after induction of calcification with ascorbate and BPG
+FF:0000601	Saos2 osteosarcoma cell line 2.5h after induction of calcification with ascorbate and BPG
+FF:0000602	Saos2 osteosarcoma cell line 3h after induction of calcification with ascorbate and BPG
+FF:0000603	Saos2 osteosarcoma cell line 4h after induction of calcification with ascorbate and BPG
+FF:0000604	Saos2 osteosarcoma cell line 8h after induction of calcification with ascorbate and BPG
+FF:0000605	Saos2 osteosarcoma cell line 24h after induction of calcification with ascorbate and BPG
+FF:0000606	Saos2 osteosarcoma cell line 4d after induction of calcification with ascorbate and BPG
+FF:0000607	Saos2 osteosarcoma cell line 7d after induction of calcification with ascorbate and BPG
+FF:0000608	Saos2 osteosarcoma cell line 14d after induction of calcification with ascorbate and BPG
+FF:0000609	Saos2 osteosarcoma cell line 21d after induction of calcification with ascorbate and BPG
+FF:0000610	Saos2 osteosarcoma cell line 28d after induction of calcification with ascorbate and BPG
+FF:0000611	EBF KO HPCs induced to T cell 0.5h
+FF:0000612	EBF KO HPCs induced to T cell 1h
+FF:0000613	EBF KO HPCs induced to T cell 2h
+FF:0000614	EBF KO HPCs induced to T cell 4h
+FF:0000615	EBF KO HPCs induced to T cell 6h
+FF:0000616	EBF KO HPCs induced to T cell 8h
+FF:0000617	EBF KO HPCs induced to T cell 10h
+FF:0000618	EBF KO HPCs induced to T cell 12h
+FF:0000619	EBF KO HPCs induced to T cell 24h
+FF:0000620	EBF KO HPCs induced to T cell 48h
+FF:0000621	EBF KO HPCs induced to T cell 72h
+FF:0000622	EBF KO HPCs induced to T cell 96h
+FF:0000623	EBF KO HPCs induced to T cell 120h
+FF:0000624	EBF KO HPCs induced to T cell 144h
+FF:0000625	experimental infection
+FF:0000626	trophoblast cell line
+FF:0000627	RANK ligand treatment
+FF:0000628	Bacillus Calmette-Guerin treatment
+FF:0000629	IFN and N-hexane treatment
+FF:0000630	beta-glucan treatment
+FF:0000631	trehalose dimycolate (TDM) treatment
+FF:0000632	group A streptococci treatment
+FF:0000633	Salmonella treatment
+FF:0000634	Cryptococcus treatment
+FF:0000635	Candida treatment
+FF:0000636	IL-2 treatment
+FF:0000637	IL-33 treatment
+FF:0000638	Streptococcus strain 5448 treatment
+FF:0000639	Streptococcus strain JRS4 treatment
+FF:0000640	Fibroblast - Aortic Adventitial, cytoplasmic fraction
+FF:0000641	trophoblast stem cell line B1
+FF:0000642	trophoblast stem cell line Rybp
+FF:0000643	trophoblast stem cell line R1AB
+FF:0000644	trophoblast cell line differentiation
+FF:0000645	tracheal ciliated cell differentiation
+FF:0000646	5 days
+FF:0000647	udorn influenza infection
+FF:0000648	mock infection
+FF:0000649	10 days
+FF:0000650	11 days
+FF:0000651	cardiomyocyte differentiation treatment
+FF:0000652	tracheal ciliated cell line
+FF:0000653	30 hr
+FF:0000654	42 hr
+FF:0000655	54 hr
+FF:0000656	60 hr
+FF:0000657	66 hr
+FF:0000658	84 hr
+FF:0000659	Fibroblast - skin dystrophia myotonica, cytoplasmic fraction
+FF:0000660	Fibroblast - skin normal, cytoplasmic fraction
+FF:0000661	acute myeloid leukemia (FAB M5) cell line:THP-1 cytoplasmic fraction
+FF:0000662	Fibroblast - skin spinal muscular atrophy, cytoplasmic fraction
+FF:0000663	Preadipocyte - breast, cytoplasmic fraction
+FF:0000664	Smooth Muscle Cells - Aortic, (cytoplasmic fraction)
+FF:0000665	Small Airway Epithelial Cells, cytoplasmic fraction
+FF:0000666	Fibroblast - Aortic Adventitial, nuclear fraction
+FF:0000667	Fibroblast - skin dystrophia myotonica, nuclear fraction
+FF:0000668	Fibroblast - skin normal, nuclear fraction
+FF:0000669	acute myeloid leukemia (FAB M5) cell line:THP-1 nuclear fraction
+FF:0000670	Fibroblast - skin spinal muscular atrophy, nuclear fraction
+FF:0000671	Preadipocyte - breast, nuclear fraction
+FF:0000672	Smooth Muscle Cells - Aortic, nuclear fraction
+FF:0000673	Small Airway Epithelial Cells, nuclear fraction
+FF:0000674	Small Airway Epithelial Cells, whole cell
+FF:0000675	Smooth Muscle Cells - Aortic, whole cell
+FF:0000676	Preadipocyte - breast, whole cell
+FF:0000677	Fibroblast - skin spinal muscular atrophy, whole cell
+FF:0000678	acute myeloid leukemia (FAB M5) cell line:THP-1 whole cell
+FF:0000679	Fibroblast - skin normal, whole cell
+FF:0000680	Fibroblast - skin dystrophia myotonica, whole cell
+FF:0000681	Fibroblast - Aortic Adventitial, whole cell
+FF:0000690	mesenchymal stem cells adipose derived, 0 minutes after adipogenic induction
+FF:0000691	mesenchymal stem cells adipose derived, 15 minutes after adipogenic induction
+FF:0000692	mesenchymal stem cells adipose derived, 30 minutes after adipogenic induction
+FF:0000693	mesenchymal stem cells adipose derived, 45 minutes after adipogenic induction
+FF:0000694	mesenchymal stem cells adipose derived, 60 minutes after adipogenic induction
+FF:0000695	mesenchymal stem cells adipose derived, 80 minutes after adipogenic induction
+FF:0000696	mesenchymal stem cells adipose derived, 100 minutes after adipogenic induction
+FF:0000697	mesenchymal stem cells adipose derived, 120 minutes after adipogenic induction
+FF:0000698	mesenchymal stem cells adipose derived, 150 minutes after adipogenic induction
+FF:0000699	mesenchymal stem cells adipose derived, 180 minutes after adipogenic induction
+FF:0000700	mesenchymal stem cells adipose derived, 12 hours after adipogenic induction
+FF:0000701	mesenchymal stem cells adipose derived, 24 hours after adipogenic induction
+FF:0000702	mesenchymal stem cells adipose derived, 2 days after adipogenic induction
+FF:0000703	mesenchymal stem cells adipose derived, 4 days after adipogenic induction
+FF:0000704	mesenchymal stem cells adipose derived, 8 days after adipogenic induction
+FF:0000705	mesenchymal stem cells adipose derived, 12 days after adipogenic induction
+FF:0000706	mesenchymal stem cells adipose derived, 14 days after adipogenic induction
+FF:0000707	mesenchymal stem cells adipose derived, untreated control
+FF:0000711	Saos2 osteosarcoma cell line 0min untreated control
+FF:0000712	Saos2 osteosarcoma cell line 15min untreated control
+FF:0000713	Saos2 osteosarcoma cell line 30min untreated control
+FF:0000714	Saos2 osteosarcoma cell line 45min untreated control
+FF:0000715	Saos2 osteosarcoma cell line 60min untreated control
+FF:0000716	Saos2 osteosarcoma cell line 80min untreated control
+FF:0000717	Saos2 osteosarcoma cell line 100min untreated control
+FF:0000718	Saos2 osteosarcoma cell line 2h untreated control
+FF:0000719	Saos2 osteosarcoma cell line 2.5h untreated control
+FF:0000720	Saos2 osteosarcoma cell line 3h untreated control
+FF:0000721	Saos2 osteosarcoma cell line 4h untreated control
+FF:0000722	Saos2 osteosarcoma cell line 8h untreated control
+FF:0000723	Saos2 osteosarcoma cell line 24h untreated control
+FF:0000724	Saos2 osteosarcoma cell line 4d untreated control
+FF:0000725	Saos2 osteosarcoma cell line 7d untreated control
+FF:0000726	Saos2 osteosarcoma cell line 14d untreated control
+FF:0000727	Saos2 osteosarcoma cell line 21d untreated control
+FF:0000728	Saos2 osteosarcoma cell line 28d untreated control
+FF:0000729	EBF KO HPCs induced to T cell 0h
+FF:0000730	Melanocyte (MC)
+FF:0000731	adipocyte differentiation day4
+FF:0000732	adipocyte differentiation day8
+FF:0000733	adipocyte differentiation day12
+FF:0000734	neonate N1
+FF:0000998	adult tissue sample
+FF:0000999	fetal tissue sample
+FF:0010010	adipose tissue - adult
+FF:0010011	bladder - adult
+FF:0010012	brain - adult
+FF:0010013	cervix - adult
+FF:0010014	colon - adult
+FF:0010015	esophagus - adult
+FF:0010016	heart - adult
+FF:0010017	kidney - adult
+FF:0010018	liver - adult
+FF:0010019	lung - adult
+FF:0010020	ovary - adult
+FF:0010021	placenta - adult
+FF:0010022	prostate - adult
+FF:0010023	skeletal muscle - adult
+FF:0010024	small intestine - adult
+FF:0010025	spleen - adult
+FF:0010026	testis - adult
+FF:0010027	thymus - adult human
+FF:0010028	thyroid - adult
+FF:0010029	trachea - adult
+FF:0010030	retina - adult
+FF:0010031	temporal lobe - adult
+FF:0010032	postcentral gyrus - adult
+FF:0010033	pons - adult
+FF:0010034	parietal lobe - adult
+FF:0010035	paracentral gyrus - adult
+FF:0010036	occipital pole - adult
+FF:0010037	nucleus accumbens - adult
+FF:0010038	medulla oblongata - adult
+FF:0010039	insula - adult
+FF:0010040	frontal lobe - adult
+FF:0010041	dura mater - adult
+FF:0010042	corpus callosum - adult
+FF:0010043	thymus - fetal
+FF:0010044	spleen - fetal
+FF:0010045	kidney - fetal
+FF:0010046	heart - fetal
+FF:0010047	tonsil - adult
+FF:0010048	smooth muscle - adult
+FF:0010049	pancreas - adult
+FF:0010052	aorta - adult
+FF:0010053	blood - adult
+FF:0010054	eye - fetal
+FF:0010055	uterus - fetal
+FF:0010056	spinal cord - fetal
+FF:0010057	umbilical cord - fetal
+FF:0010058	trachea - fetal
+FF:0010059	tongue - fetal
+FF:0010060	thyroid - fetal
+FF:0010061	throat - fetal
+FF:0010062	stomach - fetal
+FF:0010063	duodenum - fetal
+FF:0010064	small intestine - fetal
+FF:0010065	skin - fetal
+FF:0010066	skeletal muscle - fetal
+FF:0010067	rectum - fetal
+FF:0010068	lung - fetal
+FF:0010069	diaphragm - fetal
+FF:0010070	colon - fetal
+FF:0010071	temporal lobe - fetal
+FF:0010072	parietal lobe - fetal
+FF:0010073	occipital lobe - fetal
+FF:0010074	skin - adult
+FF:0010076	occipital lobe - adult
+FF:0010077	lymph node - adult
+FF:0010078	left ventricle - adult
+FF:0010079	left atrium - adult
+FF:0010080	breast - adult
+FF:0010081	adrenal gland - adult
+FF:0010083	cerebellum - adult
+FF:0010085	brain - fetal
+FF:0010086	liver - fetal
+FF:0010087	putamen - adult donor
+FF:0010093	salivary gland - adult
+FF:0010100	uterus - adult
+FF:0010150	medial temporal gyrus - adult
+FF:0010151	amygdala - adult donor
+FF:0010153	hippocampus - adult
+FF:0010154	thalamus - adult donor
+FF:0010156	GTM (medial temporal gyrus donor
+FF:0010158	substantia nigra - adult donor
+FF:0010159	spinal cord - adult
+FF:0010160	pineal gland - adult
+FF:0010161	globus pallidus - adult donor
+FF:0010162	pituitary gland - adult
+FF:0010163	occipital cortex - adult donor
+FF:0010164	caudate nucleus - adult donor
+FF:0010188	cerebral meninges - adult
+FF:0010189	appendix - adult
+FF:0010190	artery - adult
+FF:0010191	vein - adult
+FF:0010192	bone marrow - adult
+FF:0010193	diencephalon - adult
+FF:0010195	olfactory region - adult
+FF:0010196	ductus deferens - adult
+FF:0010198	gall bladder - adult
+FF:0010199	parotid gland - adult
+FF:0010200	penis - adult
+FF:0010201	seminal vesicle - adult
+FF:0010202	submaxillary gland - adult
+FF:0010203	tongue - adult
+FF:0010204	vagina - adult
+FF:0010205	heart, mitral valve - adult
+FF:0010206	heart, pulmonic valve - adult
+FF:0010207	heart, tricuspid valve - adult
+FF:0010208	rectum - adult
+FF:0010209	throat - adult
+FF:0011100	CD14-CD16-positive Monocytes
+FF:0011101	CD14-positive monocytes - mock treated
+FF:0011102	CD14-positive monocytes - treated with B-glucan
+FF:0011103	CD14-positive monocytes - treated with BCG
+FF:0011104	CD14-positive monocytes - treated with Candida
+FF:0011105	CD14-positive monocytes - treated with Cryptococcus
+FF:0011106	CD14-positive monocytes - treated with Group A streptococci
+FF:0011108	CD14-positive monocytes - treated with lipopolysaccharide
+FF:0011109	CD14-positive monocytes - treated with Salmonella
+FF:0011111	CD14-positiveCD16- Monocytes
+FF:0011112	CD14-positiveCD16-positive Monocytes
+FF:0011113	CD326-positive enterocyte isolated from mice- treated with RANKL- day03
+FF:0011122	CD4-positiveCD25-CD45RA- naive conventional T cells
+FF:0011131	CD41-positive megakaryocyte cancer
+FF:0011132	Hep-2 cells mock treated
+FF:0011133	Hep-2 cells treated with Streptococci strain 5448
+FF:0011134	Hep-2 cells treated with Streptococci strain JRS4
+FF:0011135	immature langerhans cells
+FF:0011136	migratory langerhans cells
+FF:0011138	natural helper cells- IL33 treated- 01hr
+FF:0011139	natural helper cells- IL33 treated- day02
+FF:0011140	natural helper cells- naive
+FF:0011142	neurospheres - enteric neuron derived
+FF:0011143	neurospheres - parasympathetic neuron derived
+FF:0011144	neurospheres - sympathetic neuron derived
+FF:0011147	achilles tendon
+FF:0011148	arachnoid mater
+FF:0011149	CD326-positive enterocyte
+FF:0011151	cerebrospinal fluid
+FF:0011152	cruciate ligament
+FF:0011153	eye - muscle inferior rectus
+FF:0011154	eye - muscle lateral
+FF:0011155	eye - muscle medial
+FF:0011156	eye - muscle superior
+FF:0011157	eye - vitreous humor
+FF:0011159	GP2-positive M cell
+FF:0011160	mesothelium
+FF:0011161	Mouse hepatic Sinusoidal Endothelial Cells
+FF:0011164	olfactory epithelium
+FF:0011165	omentum
+FF:0011166	optic nerve
+FF:0011167	Parathyroid
+FF:0011168	pia mater
+FF:0011169	Reticulocytes
+FF:0011170	sciatic nerve
+FF:0011172	skeletal muscle - lateralis muscle
+FF:0011173	skeletal muscle - soleus muscle
+FF:0011174	Skin - armpit hair follicle
+FF:0011175	Skin - armpit sweat gland rich
+FF:0011176	Skin - cornified area on sole of foot
+FF:0011177	Skin - palm
+FF:0011178	Skin - torso
+FF:0011180	Ureter
+FF:0011181	Urethra
+FF:0011182	cerebellum- embryo E11
+FF:0011183	cerebellum- embryo E12
+FF:0011184	cerebellum- embryo E13
+FF:0011185	cerebellum- embryo E14
+FF:0011186	cerebellum- embryo E15
+FF:0011187	cerebellum- embryo E16
+FF:0011188	cerebellum- embryo E17
+FF:0011189	cerebellum- embryo E18
+FF:0011190	cerebellum- neonate N00
+FF:0011191	cerebellum- neonate N03
+FF:0011192	cerebellum- neonate N06
+FF:0011193	cerebellum- neonate N09
+FF:0011194	trophoblast stem cell line R1AB differentiation- day00
+FF:0011196	trophoblast stem cell line R1AB differentiation- day02
+FF:0011197	trophoblast stem cell line R1AB differentiation- day03
+FF:0011198	trophoblast stem cell line R1AB differentiation- day04
+FF:0011199	trophoblast stem cell line R1AB differentiation- day05
+FF:0011200	trophoblast stem cell line R1AB differentiation- day06
+FF:0011201	trophoblast stem cell line Rybp differentiation- day00
+FF:0011202	trophoblast stem cell line Rybp differentiation- day01
+FF:0011203	trophoblast stem cell line Rybp differentiation- day02
+FF:0011204	trophoblast stem cell line Rybp differentiation- day03
+FF:0011205	trophoblast stem cell line Rybp differentiation- day04
+FF:0011206	trophoblast stem cell line Rybp differentiation- day05
+FF:0011207	trophoblast stem cell line Rybp differentiation- day06
+FF:0011208	trophoblast stem cell line B1 differentiation- day01
+FF:0011209	trophoblast stem cell line B1 differentiation- day02
+FF:0011210	trophoblast stem cell line B1 differentiation- day03
+FF:0011211	trophoblast stem cell line B1 differentiation- day04
+FF:0011212	trophoblast stem cell line B1 differentiation- day05
+FF:0011213	trophoblast stem cell line B1 differentiation- day06
+FF:0011214	Monocyte-derived macrophages 0h after mock infection
+FF:0011215	Monocyte-derived macrophages 0h after udorn influenza infection
+FF:0011216	Monocyte-derived macrophages 2h after udorn influenza infection
+FF:0011217	Monocyte-derived macrophages 7h after udorn influenza infection
+FF:0011218	Monocyte-derived macrophages 24h after udorn influenza infection
+FF:0011219	Monocyte-derived macrophages 24h after mock infection
+FF:0011220	ES cells differentiated towards cardiomyocyte- day1
+FF:0011221	ES cells differentiated towards cardiomyocyte- day2
+FF:0011222	ES cells differentiated towards cardiomyocyte- day3
+FF:0011223	ES cells differentiated towards cardiomyocyte- day4
+FF:0011224	ES cells differentiated towards cardiomyocyte- day5
+FF:0011225	ES cells differentiated towards cardiomyocyte- day6
+FF:0011226	ES cells differentiated towards cardiomyocyte- day7
+FF:0011227	ES cells differentiated towards cardiomyocyte- day8
+FF:0011228	ES cells differentiated towards cardiomyocyte- day9
+FF:0011229	ES cells differentiated towards cardiomyocyte- day10
+FF:0011230	ES cells differentiated towards cardiomyocyte- day11
+FF:0011231	ES cells differentiated towards cardiomyocyte- day13
+FF:0011232	tracheal ciliated cells differentiation after 0hr
+FF:0011233	tracheal ciliated cells differentiation after 4hr
+FF:0011234	tracheal ciliated cells differentiation after 8hr
+FF:0011235	tracheal ciliated cells differentiation after 12hr
+FF:0011236	tracheal ciliated cells differentiation after 16hr
+FF:0011237	tracheal ciliated cells differentiation after 20hr
+FF:0011238	tracheal ciliated cells differentiation after 24hr
+FF:0011239	tracheal ciliated cells differentiation after 30hr
+FF:0011240	tracheal ciliated cells differentiation after 36hr
+FF:0011241	tracheal ciliated cells differentiation after 42hr
+FF:0011242	tracheal ciliated cells differentiation after 48hr
+FF:0011243	tracheal ciliated cells differentiation after 54hr
+FF:0011244	tracheal ciliated cells differentiation after 60hr
+FF:0011245	tracheal ciliated cells differentiation after 66hr
+FF:0011246	tracheal ciliated cells differentiation after 72hr
+FF:0011247	tracheal ciliated cells differentiation after 84hr
+FF:0011248	tracheal ciliated cells differentiation after 96hr
+FF:0011249	tracheal ciliated cells differentiation after 120hr
+FF:0011250	cerebellum- neonate N30
+FF:0011251	pancreas- neonate N01
+FF:0011252	eyeball- neonate N01
+FF:0011253	pancreas- embryo E18
+FF:0011254	pancreas- neonate N02
+FF:0011255	pancreas- neonate N30
+FF:0011256	pancreas- neonate N25
+FF:0011257	pancreas- embryo E15
+FF:0011258	pancreas- embryo E17
+FF:0011262	pancreas- embryo E14
+FF:0011263	pancreas- embryo E16
+FF:0011264	eyeball- neonate N00
+FF:0011265	intestine- neonate N00
+FF:0011266	pancreas- neonate N00
+FF:0011267	pancreas- neonate N16
+FF:0011268	visual cortex from wildtype- neonate N15
+FF:0011269	visual cortex from wildtype- neonate N30
+FF:0011270	visual cortex from wildtype- neonate N60-70
+FF:0011271	visual cortex from Mecp knockout- neonate N15
+FF:0011272	visual cortex from Mecp knockout- neonate N30
+FF:0011273	visual cortex from Mecp knockout- neonate N60-70
+FF:0011274	Ileum epithelium
+FF:0011275	trophoblast stem cell line B1 differentiation- day00
+FF:0011276	mouse cerebellum - adult
+FF:0011277	forelimb- embryo E17
+FF:0011278	forelimb- embryo E18
+FF:0011280	thymus- neonate N02
+FF:0011281	eyeball- neonate N02
+FF:0011282	gonad- embryo E13
+FF:0011283	corpora quadrigemina- adult
+FF:0011284	medulla oblongata- adult
+FF:0011285	intestine- adult
+FF:0011286	olfactory brain- adult
+FF:0011287	mouse fibroblast cell line: CRL-1658 NIH/3T3
+FF:0011288	corpus striatum- adult
+FF:0011289	epididymis- adult
+FF:0011303	pituitary gland- adult
+FF:0011304	thymus- neonate N03
+FF:0011305	spinal cord- adult
+FF:0011306	spleen- adult
+FF:0011307	lung- adult
+FF:0011308	skin- adult
+FF:0011309	eyeball- adult
+FF:0011310	tongue- adult
+FF:0011311	whole body- embryo E11
+FF:0011312	stomach- adult
+FF:0011313	heart- embryo E11
+FF:0011314	forelimb- embryo E11
+FF:0011315	pancreas- adult
+FF:0011316	eyeball- embryo E12
+FF:0011317	pituitary gland- embryo E12
+FF:0011318	heart- embryo E12
+FF:0011319	lung- embryo E12
+FF:0011320	liver- embryo E12
+FF:0011321	stomach- embryo E12
+FF:0011322	forelimb- embryo E12
+FF:0011323	colon- adult
+FF:0011324	cecum - adult
+FF:0011325	pituitary gland- embryo E13
+FF:0011326	whole body- embryo E13
+FF:0011327	heart- embryo E13
+FF:0011328	liver- embryo E13
+FF:0011329	thymus- adult
+FF:0011330	intestine- embryo E13
+FF:0011331	forelimb- embryo E13
+FF:0011332	testis- embryo E13
+FF:0011333	whole body- embryo E14
+FF:0011334	pituitary gland- embryo E14
+FF:0011335	eyeball- embryo E14
+FF:0011336	thymus- embryo E14
+FF:0011337	heart- embryo E14
+FF:0011338	lung- embryo E14
+FF:0011339	adrenal gland - embryo E14
+FF:0011340	liver- embryo E14
+FF:0011341	kidney- embryo E14
+FF:0011342	forelimb- embryo E14
+FF:0011343	whole body- embryo E14.5
+FF:0011344	eyeball- embryo E15
+FF:0011345	pituitary gland- embryo E15
+FF:0011346	thymus- embryo E15
+FF:0011347	heart- embryo E15
+FF:0011348	lung- embryo E15
+FF:0011349	liver- embryo E15
+FF:0011350	kidney- embryo E15
+FF:0011351	forelimb- embryo E15
+FF:0011352	testis- embryo E15
+FF:0011353	pituitary gland- embryo E16
+FF:0011354	whole body- embryo E16
+FF:0011355	thymus- embryo E16
+FF:0011356	heart- embryo E16
+FF:0011357	lung- embryo E16
+FF:0011358	stomach- embryo E16
+FF:0011359	mouse aorta - adult
+FF:0011360	spleen- embryo E16
+FF:0011361	liver- embryo E16
+FF:0011362	intestine- embryo E16
+FF:0011363	kidney- embryo E16
+FF:0011364	testis- embryo E16
+FF:0011365	whole body- embryo E17
+FF:0011366	thymus- embryo E17
+FF:0011367	heart- embryo E17
+FF:0011368	lung- embryo E17
+FF:0011369	liver- embryo E17
+FF:0011370	intestine- embryo E17
+FF:0011371	kidney- embryo E17
+FF:0011372	testis- embryo E17
+FF:0011373	mouse adrenal gland - adult
+FF:0011374	whole body- embryo E17.5
+FF:0011375	whole body- embryo E18
+FF:0011376	liver- embryo E18
+FF:0011377	testis- embryo E18
+FF:0011378	ovary- embryo E18
+FF:0011379	liver- adult pregnant day01
+FF:0011380	vesicular gland- adult
+FF:0011381	placenta- adult pregnant day10
+FF:0011383	testis- adult
+FF:0011384	placenta- adult pregnant day17
+FF:0011386	amnion - adult pregnant day17.5
+FF:0011387	mammary gland- adult pregnant day19
+FF:0011388	submandibular gland- adult
+FF:0011389	uterus- adult pregnant day19
+FF:0011390	mammary gland- adult lactating day02
+FF:0011391	hippocampus- neonate N00
+FF:0011392	corpus striatum- neonate N00
+FF:0011393	heart- neonate N00
+FF:0011394	lung- neonate N00
+FF:0011395	liver- neonate N00
+FF:0011396	kidney- neonate N00
+FF:0011397	skin- neonate N00
+FF:0011398	whole body- neonate N00
+FF:0011399	whole body- neonate N01
+FF:0011400	skin- neonate N03
+FF:0011401	thymus- neonate N06
+FF:0011402	lung- neonate N06
+FF:0011403	liver- neonate N06
+FF:0011404	intestine- neonate N06
+FF:0011405	whole body- neonate N06
+FF:0011406	skin- neonate N06
+FF:0011407	thymus- neonate N07
+FF:0011408	lung- neonate N07
+FF:0011409	liver- neonate N07
+FF:0011410	stomach- neonate N07
+FF:0011411	intestine- neonate N07
+FF:0011412	testis- neonate N07
+FF:0011413	thymus- neonate N10
+FF:0011414	heart- neonate N10
+FF:0011415	lung- neonate N10
+FF:0011416	liver- neonate N10
+FF:0011417	spleen- neonate N10
+FF:0011418	intestine- neonate N10
+FF:0011419	kidney- neonate N10
+FF:0011420	whole body- neonate N10
+FF:0011421	skin- neonate N10
+FF:0011422	testis- neonate N10
+FF:0011423	eyeball- neonate N16
+FF:0011424	heart- neonate N16
+FF:0011425	small intestine- neonate N16
+FF:0011426	thymus- neonate N20
+FF:0011427	heart- neonate N20
+FF:0011428	lung- neonate N20
+FF:0011429	liver- neonate N20
+FF:0011430	spleen- neonate N20
+FF:0011431	intestine- neonate N20
+FF:0011432	kidney- neonate N20
+FF:0011433	testis- neonate N20
+FF:0011434	whole body- embryo E12
+FF:0011435	prostate- adult
+FF:0011436	intestinal mucosa- adult
+FF:0011437	urinary bladder- adult
+FF:0011438	mouse vagina- adult
+FF:0011439	ovary- adult
+FF:0011440	uterus- adult
+FF:0011441	intestine- embryo E15
+FF:0011442	oviduct- adult pregnant day01
+FF:0011443	CD14-positive monocytes - treated with IFN + N-hexane
+FF:0011444	CD14-positive monocytes - treated with Trehalose dimycolate (TDM)
+FF:0011445	CD326-positive+ enterocyte isolated from mice- treated with RANKL- day03
+FF:0011446	CD4-positiveCD25-CD44- naive conventional T cells stimulated with alphaCD3_CD28 - 06hr- (C57BL_6J)
+FF:0011447	CD4-positiveCD25-CD44- naive conventional T cells stimulated with alphaCD3_CD28- 06hr- (Balb_cAJcl)
+FF:0011448	CD4-positiveCD25-CD44- naive conventional T cells stimulated with PMA an ionomycin- 02hr- (C57BL_6J)
+FF:0011449	CD4-positiveCD25-CD44- naive conventional T cells stimulated with PMA an ionomycin- 02hr- (Balb_cAJcl)
+FF:0011450	CD4-positiveCD25-CD44- naive conventional T cells- (C57BL_6J)
+FF:0011451	CD4-positiveCD25-CD44- naive conventional T cells- (Balb_cAJcl)
+FF:0011454	CD4-positiveCD25-positive regulatory T cells (C57BL_6J)
+FF:0011455	CD4-positiveCD25-positive regulatory T cells (Balb_cAJcl)
+FF:0011458	tongue epidermis (fungiform papillae)
+FF:0011459	tongue epidermis (vallate papillae)- donor1
+FF:0011460	Fingernail (including nail plate- eponychium and hyponychium)
+FF:0011461	Mouse hepatic Stellate Cells (lipocyte)
+FF:0011462	bone- os femoris - neonate N16
+FF:0011463	bone- os femoris - neonate N2
+FF:0011464	bone- os femoris - adult
+FF:0011465	medulla oblongata- neonate N30
+FF:0011466	adrenal gland - neonate N25
+FF:0011467	bone- os femoris - neonate N20
+FF:0011468	CD41-positive megakaryocyte control
+FF:0011469	cortex- neonate N30
+FF:0011470	diencephalon- neonate N30
+FF:0011471	epididymis and seminiferous tubule- neonate N30
+FF:0011472	epitheloid carcinoma cell line: HelaS3 ENCODE
+FF:0011473	Follicle Associated Epithelium
+FF:0011474	heart- neonate N03
+FF:0011475	heart- neonate N25
+FF:0011476	heart- neonate N30
+FF:0011477	Ileum epithelium 1h after RANKL
+FF:0011478	Ileum epithelium 3days after RANKL
+FF:0011479	Ileum epithelium 3h after RANKL
+FF:0011480	intestine- neonate N25
+FF:0011481	intestine- neonate N30
+FF:0011482	kidney- neonate N25
+FF:0011483	kidney- neonate N30
+FF:0011484	liver- neonate N03
+FF:0011485	liver- neonate N25
+FF:0011486	liver- neonate N30
+FF:0011487	locus coeruleus- adult
+FF:0011488	lung- neonate N25
+FF:0011489	lung- neonate N30
+FF:0011490	muscle - biceps femoris- neonate N30
+FF:0011491	spleen- neonate N25
+FF:0011492	stomach- embryo E17
+FF:0011493	stomach- neonate N25
+FF:0011494	stomach- neonate N30
+FF:0011495	testis- neonate N30
+FF:0011496	thymus- neonate N25
+FF:0011497	thymus- neonate N30
+FF:0011498	stomach, neonate N03
+FF:0011502	ES cells differentiated towards cardiomyocyte- day12
+FF:0011503	trophoblast stem cell line R1AB differentiation- day01
+FF:0011504	intestine- neonate N01
+FF:0011505	adrenal gland - neonate N00
+FF:0011506	epididymis and seminiferous tubule- neonate N00
+FF:0011507	pituitary gland- neonate N00
+FF:0011508	TSt-4/DLL1 feeder cells
+FF:0011509	testis- neonate N00
+FF:0011510	ovary, neonate N00
+FF:0011511	intestine- embryo E18
+FF:0011512	kidney- embryo E18
+FF:0011513	lung- embryo E18
+FF:0011514	stomach- embryo E18
+FF:0011515	heart- embryo E18
+FF:0011516	thymus- embryo E18
+FF:0011517	spleen-, embryo E18
+FF:0011518	adrenal gland - embryo E18
+FF:0011519	pituitary gland- embryo E17
+FF:0011520	adrenal gland - embryo E17
+FF:0011521	eyeball- embryo E17
+FF:0011522	adrenal gland - embryo E16
+FF:0011523	stomach- embryo E15
+FF:0011524	natural helper cells- IL2 treated, day15
+FF:0011525	cortex- adult
+FF:0100003	intestinal cell line
+FF:0100007	HEK-293 cell
+FF:0100016	A-172 cell
+FF:0100017	A-431 cell
+FF:0100018	A-549 cell
+FF:0100067	kidney cell line
+FF:0100093	MCF-7 cell
+FF:0100101	astrocytoma cell line
+FF:0100104	lymphoma cell line
+FF:0100161	lung fibroblast cell line
+FF:0100167	adenocarcinoma cell line
+FF:0100179	Colo-205 cell
+FF:0100189	small cell lung cancer cell
+FF:0100195	CACO-2 cell
+FF:0100197	carcinosarcoma cell
+FF:0100224	liver cell line
+FF:0100255	brain cell line
+FF:0100297	carcinoma cell line
+FF:0100304	PANC-1 cell
+FF:0100306	teratocarcinoma cell line
+FF:0100353	lung cell line
+FF:0100356	breast cancer cell line
+FF:0100372	bone cancer cell
+FF:0100383	renal cell carcinoma cell line
+FF:0100385	bone cancer cell line
+FF:0100400	sarcoma cell line
+FF:0100407	osteosarcoma cell line
+FF:0100453	fibroblast cell line
+FF:0100458	WI-38 cell
+FF:0100460	fibrosarcoma cell line
+FF:0100578	hepatoma cell line
+FF:0100583	bone marrow cancer cell
+FF:0100599	Hep-G2 cell
+FF:0100603	pre-B acute lymphoblastic leukemia cell line
+FF:0100658	uterine adenocarcinoma cell
+FF:0100661	JURKAT cell
+FF:0100664	K-562 cell
+FF:0100666	LoVo cell
+FF:0100669	embryonic cell line
+FF:0100678	G-402 cell
+FF:0100690	brain cancer cell line
+FF:0100711	glioma cell line
+FF:0100729	carcinoid cell
+FF:0100732	KU-812 cell
+FF:0100736	CCRF-CEM cell
+FF:0100737	leukemia cell line
+FF:0100739	lymphoblastic leukemia cell line
+FF:0100740	myeloid leukemia cell line
+FF:0100741	lymphocytic leukemia cell line
+FF:0100762	lung cancer cell line
+FF:0100773	lymphoblastoid cell line
+FF:0100786	tongue cancer cell line
+FF:0100787	gastric cancer cell line
+FF:0100790	pharyngeal cancer cell line
+FF:0100792	urinary bladder cancer cell line
+FF:0100794	pancreatic cancer cell line
+FF:0100797	colonic cancer cell line
+FF:0100798	BeWo cell
+FF:0100811	ovary cancer cell line
+FF:0100816	breast cell line
+FF:0100819	pharyngeal cell line
+FF:0100834	Detroit 562 cell
+FF:0100849	melanoma cell line
+FF:0100889	Burkitt lymphoma cell line
+FF:0100898	myeloma cell
+FF:0100899	myeloma cell line
+FF:0100919	8305C cell
+FF:0100932	neuroblastoma cell line
+FF:0100946	NT2/D1 cell
+FF:0100969	osteoclastoma cell
+FF:0100971	SAOS-2 cell
+FF:0100977	ovary cell line
+FF:0100978	CMK cell
+FF:0101000	acute megakaryocytic leukemia cell line
+FF:0101014	Mo-T cell
+FF:0101019	prostate gland cell line
+FF:0101033	prostate cancer cell line
+FF:0101035	hematopoietic cell line
+FF:0101061	PC-3 cell
+FF:0101081	MOLT-3 cell
+FF:0101092	KATO-III cell
+FF:0101120	epithelial cell line
+FF:0101154	RAJI cell
+FF:0101225	MKN-45 cell
+FF:0101282	HT-1080 cell
+FF:0101321	LNCaP cell
+FF:0101332	DU-145 cell
+FF:0101345	T-24 cell
+FF:0101359	medulloblastoma cell line
+FF:0101370	THP-1 cell
+FF:0101455	thymic carcinoma cell
+FF:0101518	B-lymphoma cell line
+FF:0101521	pancreatic adenocarcinoma cell line
+FF:0101522	B-lymphocyte cell line
+FF:0101524	WIL2-NS cell
+FF:0101530	glioblastoma cell line
+FF:0101531	glial cell line
+FF:0101532	rectal cancer cell line
+FF:0101533	gastrointestinal cancer cell
+FF:0101549	megakaryocytic cell line
+FF:0101555	endometrial cancer cell line
+FF:0101560	testicular cancer cell line
+FF:0101561	DAUDI cell
+FF:0101574	chondrosarcoma cell line
+FF:0101575	choriocarcinoma cell line
+FF:0101581	embryonic stem cell line
+FF:0101583	T-98G cell
+FF:0101584	G-361 cell
+FF:0101591	PA-1 cell
+FF:0101596	MG-63 cell
+FF:0101610	thyroid cancer cell line
+FF:0101616	colorectal cancer cell line
+FF:0101620	SK-N-SH cell
+FF:0101664	hepatoblastoma cell line
+FF:0101670	HuH-6 cell
+FF:0101874	lens epithelial cell line
+FF:0101882	ovary adenocarcinoma cell line
+FF:0101883	acute myeloid leukemia cell line
+FF:0101908	MDA-MB-453 cell
+FF:0101910	NCI-H441 cell
+FF:0101911	lung adenocarcinoma cell line
+FF:0101912	breast adenocarcinoma cell line
+FF:0101913	colonic adenocarcinoma cell line
+FF:0101914	colorectal adenocarcinoma cell line
+FF:0101950	HuH-7 cell
+FF:0101952	HPB-ALL cell
+FF:0101958	embryonic fibroblast cell line
+FF:0101959	PEER cell
+FF:0101967	cervical cancer cell line
+FF:0102003	SW-1353 cell
+FF:0102024	squamous cell carcinoma cell line
+FF:0102025	HSC-3 cell
+FF:0102026	HSC-4 cell
+FF:0102027	oral cancer cell line
+FF:0102047	Colo-320 cell
+FF:0102057	lung adenocarcinoma cell
+FF:0102058	non-small cell lung cancer cell
+FF:0102060	bronchioalveolar carcinoma cell
+FF:0102061	bronchogenic carcinoma cell
+FF:0102062	B-lymphoblastoid cell line
+FF:0102144	acute lymphoblastic leukemia cell line
+FF:0102202	lung squamous cell carcinoma cell line
+FF:0102205	large cell lung cancer cell line
+FF:0102206	small cell lung cancer cell line
+FF:0102207	NCI-H460 cell
+FF:0102211	oral squamous cell carcinoma cell line
+FF:0102219	adrenocortical carcinoma cell
+FF:0102267	rhabdomyosarcoma cell line
+FF:0102285	granulosa cell line
+FF:0102332	monocytic leukemia cell line
+FF:0102380	gastric adenocarcinoma cell line
+FF:0102382	MKN-7 cell
+FF:0102383	MKN-74 cell
+FF:0102384	MKN-1 cell
+FF:0102403	OS-RC-2 cell
+FF:0102411	giant cell carcinoma cell line
+FF:0102424	mesothelioma cell line
+FF:0102428	esophageal squamous cell carcinoma cell line
+FF:0102431	HuO-3N1 cell
+FF:0102488	uterine leiomyosarcoma cell line
+FF:0102504	T-lymphoblastic leukemia cell line
+FF:0102521	diffuse large B-cell lymphoma cell
+FF:0102553	non-small cell lung cancer cell line
+FF:0102580	chronic myeloid leukemia cell line
+FF:0102581	MEG-01 cell
+FF:0102586	G-401 cell
+FF:0102595	leiomyosarcoma cell line
+FF:0102607	SK-LMS-1 cell
+FF:0102694	leiomyoma cell
+FF:0102709	head and neck squamous cell carcinoma cell line
+FF:0102733	embryonic kidney cell line
+FF:0102787	clear cell adenocarcinoma cell
+FF:0102788	mucinous adenocarcinoma cell
+FF:0102817	esophageal cancer cell line
+FF:0102835	NCI-H358 cell
+FF:0102842	cholangioma cell
+FF:0102867	TE-6 cell
+FF:0102868	bladder transitional cell carcinoma cell line
+FF:0102869	transitional cell carcinoma cell line
+FF:0102870	RT-4 cell
+FF:0102877	PC-14 cell
+FF:0102912	neuroepithelioma cell line
+FF:0102914	SK-N-MC cell
+FF:0102918	HMV-II cell
+FF:0102919	retinoblastoma cell line
+FF:0102920	Y-79 cell
+FF:0102936	vaginal cell line
+FF:0102989	CHP-134 cell
+FF:0102992	ARH-77 cell
+FF:0103001	EBC-1 cell
+FF:0103008	NCI-H226 cell
+FF:0103026	NCI-H82 cell
+FF:0103046	neurofibroma cell
+FF:0103071	HLEC-SRA 01/04 cell
+FF:0103073	medullary thyroid carcinoma cell line
+FF:0103074	TT cell
+FF:0103109	CaSki cell
+FF:0103137	5637 cell
+FF:0103187	SNU-423 cell
+FF:0103191	SNU-387 cell
+FF:0103192	renal cancer cell line
+FF:0103209	anaplastic thyroid cancer cell line
+FF:0103212	T-lymphoma cell line
+FF:0103225	neurilemoma cell line
+FF:0103233	FaDu cell
+FF:0103288	NALM-6 cell
+FF:0103296	bone marrow stromal cell line
+FF:0103493	SUIT-2 cell
+FF:0103502	OVSAHO cell
+FF:0103503	OVKATE cell
+FF:0103505	T-cell chronic lymphocytic leukemia cell
+FF:0103513	hepatic stellate cell line
+FF:0103519	LI90 cell
+FF:0103533	NOR-P1 cell
+FF:0103568	mammary gland cell line
+FF:0103681	hairy cell leukemia cell line
+FF:0103714	VMRC-RCW cell
+FF:0103729	TUHR-4TKB cell
+FF:0103730	TUHR-14TKB cell
+FF:0103731	RCC-10RGB cell
+FF:0103732	TUHR-10TKB cell
+FF:0103739	TALL-1 cell
+FF:0103743	SW-872 cell
+FF:0103744	liposarcoma cell line
+FF:0103764	NCI cell
+FF:0103765	dermatofibroma cell line
+FF:0103766	giant cell tumor cell line
+FF:0103803	serous adenocarcinoma cell line
+FF:0103849	adenosquamous carcinoma cell
+FF:0103881	HSC-2 cell
+FF:0103883	pancreatic ductal adenocarcinoma cell line
+FF:0103910	bile duct cancer cell line
+FF:0103911	HuCCT-1 cell
+FF:0103980	tongue squamous cell carcinoma cell line
+FF:0103981	SAS cell
+FF:0104049	adult T-cell lymphoma cell line
+FF:0104053	umbilical cord blood
+FF:0104078	non-small cell lung adenocarcinoma cell line
+FF:0104079	H-650 cell
+FF:0104086	mammary gland tumor cell line
+FF:0104137	KCL-22 cell
+FF:0104174	MOLT-17 cell
+FF:0104201	Ewing's sarcoma cell line
+FF:0104204	nasal squamous cell carcinoma cell line
+FF:0104205	RPMI-2650 cell
+FF:0104328	DAOY cell
+FF:0104398	meningioma cell line
+FF:0104439	hypopharyngeal carcinoma cell line
+FF:0104511	serous cystadenocarcinoma cell
+FF:0104546	hypopharyngeal squamous cell carcinoma cell line
+FF:0104598	TE-15 cell
+FF:0104600	TE-8 cell
+FF:0104601	TE-1 cell
+FF:0104785	Ewing's sarcoma family tumor cell line
+FF:0104802	bronchioloalveolar carcinoma cell
+FF:0104828	HGC-27 cell
+FF:0104854	PK-1 cell
+FF:0104868	anaplastic large cell lymphoma cell line
+FF:0104883	cystadenocarcinoma cell line
+FF:0104929	RMG-II cell
+FF:0104959	C4-2B cell
+FF:0104965	8505C cell
+FF:0104973	Hodgkin lymphoma cell line
+FF:0104975	myotube cell
+FF:0104976	nasal epithelial cell
+FF:0104978	HEp-2 cell
+FF:0200001	macrophage, TB infection
+FF:0200002	olfactory epithelial cell
+FF:0200003	iPS differentiation to neuron, control
+FF:0200004	iPS differentiation to neuron, down-syndrome donor
+FF:0200005	iPS differentiation to neuron
+FF:0200006	myoblast differentiation to myotubes, control
+FF:0200011	THP-1 control
+FF:0200020	osteoclast, bone marrow-derived
+FF:0200021	macrophage, bone marrow-derived
+FF:0200022	gamma delta positive T cells
+FF:0200024	embryonic day 8.5
+FF:0200026	mesoderm, embryonic day 8.5
+FF:0200027	(pre) hematopoietic stem cell,aorta-gonad-mesonephros (AGM) region derived
+FF:0200028	hematopoietic stem cell, placenta derived
+FF:0200029	hematopoietic stem cell, bone marrow derived
+FF:0200030	neurons - spiral ganglion
+FF:0200031	ES-OS25 embryonic stem cells
+FF:0200032	ES-OS25 embryonic stem cells, aminitin treatment
+FF:0200033	ES-OS25 embryonic stem cells, untreated
+FF:0200034	ES-OS25 embryonic stem cells, tamoxifen treated
+FF:0200035	ES-46C embryonic stem cells, neuronal differentiation
+FF:0200036	ES-OS25 embryonic stem cells, untreated siRNA control
+FF:0200037	ES-OS25 embryonic stem cells, scrambled siRNA control
+FF:0200038	ES-OS25 embryonic stem cells, KD for exosomal component EXOSC3, biol_rep1
+FF:0200040	ES-46C derived epistem cells
+FF:0300028	28 hr
+IAO:0000030	information entity
+NCBITaxon:10088	Mus
+NCBITaxon:10090	Mus musculus
+NCBITaxon:2759	Eukaryota
+OBI:0000272	protocol
+OBI:0100026	organism
+UBERON:0000002	uterine cervix
+UBERON:0000007	pituitary gland
+UBERON:0000013	sympathetic nervous system
+UBERON:0000014	zone of skin
+UBERON:0000019	camera-type eye
+UBERON:0000020	sense organ
+UBERON:0000025	tube
+UBERON:0000026	appendage
+UBERON:0000029	lymph node
+UBERON:0000033	head
+UBERON:0000043	tendon
+UBERON:0000047	simple eye
+UBERON:0000055	vessel
+UBERON:0000056	ureter
+UBERON:0000057	urethra
+UBERON:0000058	duct
+UBERON:0000061	anatomical structure
+UBERON:0000062	organ
+UBERON:0000063	organ segment
+UBERON:0000064	organ part
+UBERON:0000073	regional part of nervous system
+UBERON:0000077	mixed endoderm/mesoderm-derived structure
+UBERON:0000078	mixed ectoderm/mesoderm/endoderm-derived structure
+UBERON:0000080	mesonephros
+UBERON:0000094	membrane organ
+UBERON:0000101	lobe of lung
+UBERON:0000115	lung epithelium
+UBERON:0000119	cell layer
+UBERON:0000122	neuron projection bundle
+UBERON:0000125	neural nucleus
+UBERON:0000158	membranous layer
+UBERON:0000160	intestine
+UBERON:0000171	respiration organ
+UBERON:0000178	blood
+UBERON:0000179	haemolymphatic fluid
+UBERON:0000200	gyrus
+UBERON:0000211	ligament
+UBERON:0000305	amnion
+UBERON:0000310	breast
+UBERON:0000331	ileal mucosa
+UBERON:0000341	throat
+UBERON:0000344	mucosa
+UBERON:0000365	urothelium
+UBERON:0000369	corpus striatum
+UBERON:0000391	leptomeninx
+UBERON:0000395	cochlear ganglion
+UBERON:0000396	vallate papilla
+UBERON:0000411	visual cortex
+UBERON:0000463	portion of organism substance
+UBERON:0000464	anatomical space
+UBERON:0000465	material anatomical entity
+UBERON:0000466	immaterial anatomical entity
+UBERON:0000467	anatomical system
+UBERON:0000468	multi-cellular organism
+UBERON:0000470	cell part
+UBERON:0000473	testis
+UBERON:0000475	organism subdivision
+UBERON:0000477	anatomical cluster
+UBERON:0000478	extraembryonic structure
+UBERON:0000479	tissue
+UBERON:0000480	anatomical group
+UBERON:0000481	multi-tissue structure
+UBERON:0000483	epithelium
+UBERON:0000485	simple columnar epithelium
+UBERON:0000486	multilaminar epithelium
+UBERON:0000487	simple squamous epithelium
+UBERON:0000488	atypical epithelium
+UBERON:0000489	cavitated compound organ
+UBERON:0000490	unilaminar epithelium
+UBERON:0000914	organismal segment
+UBERON:0000922	embryo
+UBERON:0000923	germ layer
+UBERON:0000926	mesoderm
+UBERON:0000941	cranial nerve II
+UBERON:0000945	stomach
+UBERON:0000946	cardial valve
+UBERON:0000947	aorta
+UBERON:0000948	heart
+UBERON:0000955	brain
+UBERON:0000956	cerebral cortex
+UBERON:0000966	retina
+UBERON:0000970	eye
+UBERON:0000974	neck
+UBERON:0000981	femur
+UBERON:0000988	pons
+UBERON:0000989	penis
+UBERON:0000991	gonad
+UBERON:0000992	female gonad
+UBERON:0000993	oviduct
+UBERON:0000995	uterus
+UBERON:0000996	vagina
+UBERON:0000997	mammalian vulva
+UBERON:0000998	seminal vesicle
+UBERON:0001000	vas deferens
+UBERON:0001003	epidermis
+UBERON:0001005	respiratory airway
+UBERON:0001007	digestive system
+UBERON:0001013	adipose tissue
+UBERON:0001018	axon tract
+UBERON:0001020	commissure
+UBERON:0001021	nerve
+UBERON:0001043	esophagus
+UBERON:0001044	salivary gland
+UBERON:0001052	rectum
+UBERON:0001062	anatomical entity
+UBERON:0001097	axillary lymph node
+UBERON:0001132	parathyroid gland
+UBERON:0001134	skeletal muscle tissue
+UBERON:0001135	smooth muscle tissue
+UBERON:0001136	mesothelium
+UBERON:0001153	caecum
+UBERON:0001154	appendix
+UBERON:0001155	colon
+UBERON:0001204	mucosa of small intestine
+UBERON:0001235	adrenal cortex
+UBERON:0001242	intestinal mucosa
+UBERON:0001255	urinary bladder
+UBERON:0001264	pancreas
+UBERON:0001282	intralobular bile duct
+UBERON:0001301	epididymis
+UBERON:0001322	sciatic nerve
+UBERON:0001343	seminiferous tubule of testis
+UBERON:0001359	cerebrospinal fluid
+UBERON:0001374	biceps femoris
+UBERON:0001379	vastus lateralis
+UBERON:0001383	muscle of leg
+UBERON:0001389	soleus
+UBERON:0001419	skin of limb
+UBERON:0001474	bone
+UBERON:0001513	skin of foot
+UBERON:0001577	muscle of face
+UBERON:0001630	muscle organ
+UBERON:0001637	artery
+UBERON:0001638	vein
+UBERON:0001705	nail
+UBERON:0001723	tongue
+UBERON:0001726	papilla of tongue
+UBERON:0001736	submandibular gland
+UBERON:0001737	larynx
+UBERON:0001744	lymphoid tissue
+UBERON:0001764	maxillary sinus
+UBERON:0001785	cranial nerve
+UBERON:0001797	vitreous humor
+UBERON:0001825	paranasal sinus
+UBERON:0001829	major salivary gland
+UBERON:0001831	parotid gland
+UBERON:0001851	cortex
+UBERON:0001870	frontal cortex
+UBERON:0001871	temporal lobe
+UBERON:0001872	parietal lobe
+UBERON:0001873	caudate nucleus
+UBERON:0001874	putamen
+UBERON:0001876	amygdala
+UBERON:0001882	nucleus accumbens
+UBERON:0001894	diencephalon
+UBERON:0001896	medulla oblongata
+UBERON:0001897	thalamus
+UBERON:0001905	pineal body
+UBERON:0001911	mammary gland
+UBERON:0001954	Ammon's horn
+UBERON:0001961	mucosa-associated lymphoid tissue
+UBERON:0001962	gut-associated lymphoid tissue
+UBERON:0001981	blood vessel
+UBERON:0001987	placenta
+UBERON:0001997	olfactory epithelium
+UBERON:0002003	peripheral nerve
+UBERON:0002020	gray matter of neuraxis
+UBERON:0002021	occipital lobe
+UBERON:0002022	insula
+UBERON:0002036	striated muscle tissue
+UBERON:0002037	cerebellum
+UBERON:0002038	substantia nigra
+UBERON:0002046	thyroid gland
+UBERON:0002048	lung
+UBERON:0002050	embryonic structure
+UBERON:0002073	hair follicle
+UBERON:0002075	viscus
+UBERON:0002079	left atrium
+UBERON:0002081	cardiac atrium
+UBERON:0002082	cardiac ventricle
+UBERON:0002084	heart left ventricle
+UBERON:0002097	skin of body
+UBERON:0002100	trunk
+UBERON:0002101	limb
+UBERON:0002102	forelimb
+UBERON:0002106	spleen
+UBERON:0002107	liver
+UBERON:0002108	small intestine
+UBERON:0002110	gallbladder
+UBERON:0002113	kidney
+UBERON:0002116	ileum
+UBERON:0002133	atrioventricular valve
+UBERON:0002134	tricuspid valve
+UBERON:0002135	mitral valve
+UBERON:0002146	pulmonary valve
+UBERON:0002148	locus ceruleus
+UBERON:0002171	lower lobe of right lung
+UBERON:0002199	integument
+UBERON:0002240	spinal cord
+UBERON:0002259	corpora quadrigemina
+UBERON:0002284	hyponychium
+UBERON:0002300	ventricle
+UBERON:0002308	nucleus of brain
+UBERON:0002331	umbilical cord
+UBERON:0002336	corpus callosum
+UBERON:0002346	neural ectoderm
+UBERON:0002360	meninx
+UBERON:0002361	pia mater
+UBERON:0002362	arachnoid mater
+UBERON:0002363	dura mater
+UBERON:0002365	exocrine gland
+UBERON:0002367	prostate gland
+UBERON:0002368	endocrine gland
+UBERON:0002369	adrenal gland
+UBERON:0002370	thymus
+UBERON:0002371	bone marrow
+UBERON:0002372	tonsil
+UBERON:0002376	muscle of head
+UBERON:0002384	connective tissue
+UBERON:0002385	muscle tissue
+UBERON:0002394	bile duct
+UBERON:0002410	autonomic nervous system
+UBERON:0002418	cartilage tissue
+UBERON:0002419	skin gland
+UBERON:0002428	limb bone
+UBERON:0002435	striatum
+UBERON:0002448	fungiform papilla
+UBERON:0002464	nerve trunk
+UBERON:0002473	intercerebral commissure
+UBERON:0002495	long bone
+UBERON:0002529	limb segment
+UBERON:0002530	gland
+UBERON:0002553	anatomical cavity
+UBERON:0002581	postcentral gyrus
+UBERON:0002616	regional part of brain
+UBERON:0002619	regional part of cerebral cortex
+UBERON:0002680	regional part of metencephalon
+UBERON:0002702	middle frontal gyrus
+UBERON:0002757	regional part of epithalamus
+UBERON:0002780	regional part of forebrain
+UBERON:0002784	regional part of diencephalon
+UBERON:0002791	regional part of telencephalon
+UBERON:0002902	occipital pole
+UBERON:0002950	regional part of midbrain
+UBERON:0003102	surface structure
+UBERON:0003103	compound organ
+UBERON:0003104	mesenchyme
+UBERON:0003112	olfactory region
+UBERON:0003126	trachea
+UBERON:0003127	open tracheal system trachea
+UBERON:0003133	reproductive organ
+UBERON:0003134	female reproductive organ
+UBERON:0003135	male reproductive organ
+UBERON:0003199	egg chamber
+UBERON:0003293	gland of oral region
+UBERON:0003294	gland of foregut
+UBERON:0003296	gland of diencephalon
+UBERON:0003297	gland of integumental system
+UBERON:0003323	mesenchyme of upper jaw
+UBERON:0003343	mucosa of oral region
+UBERON:0003350	epithelium of mucosa
+UBERON:0003408	gland of gut
+UBERON:0003431	leg nerve
+UBERON:0003440	limb nerve
+UBERON:0003442	hindlimb nerve
+UBERON:0003464	hindlimb bone
+UBERON:0003509	arterial blood vessel
+UBERON:0003528	brain grey matter
+UBERON:0003532	hindlimb skin
+UBERON:0003587	limb connective tissue
+UBERON:0003589	hindlimb connective tissue
+UBERON:0003606	limb long bone
+UBERON:0003608	hindlimb long bone
+UBERON:0003661	limb muscle
+UBERON:0003663	hindlimb muscle
+UBERON:0003688	omentum
+UBERON:0003701	achilles tendon
+UBERON:0003714	neural tissue
+UBERON:0003729	mouth mucosa
+UBERON:0003826	upper leg bone
+UBERON:0003920	venous blood vessel
+UBERON:0003928	digestive system duct
+UBERON:0003937	sex gland
+UBERON:0003968	peripheral lymph node
+UBERON:0003975	internal female genitalia
+UBERON:0003978	valve
+UBERON:0004111	anatomical conduit
+UBERON:0004119	endoderm-derived structure
+UBERON:0004120	mesoderm-derived structure
+UBERON:0004121	ectoderm-derived structure
+UBERON:0004151	cardiac chamber
+UBERON:0004175	internal reproductive organ
+UBERON:0004177	hemopoietic organ
+UBERON:0004185	endodermal gut
+UBERON:0004252	hindlimb stylopod muscle
+UBERON:0004256	hindlimb zeugopod muscle
+UBERON:0004270	lower leg connective tissue
+UBERON:0004277	eye muscle
+UBERON:0004347	limb bud
+UBERON:0004357	limb/fin bud
+UBERON:0004375	bone of appendage
+UBERON:0004573	systemic artery
+UBERON:0004645	urinary bladder urothelium
+UBERON:0004708	limb/fin
+UBERON:0004710	limb/fin of anterior region of body
+UBERON:0004732	segmental subdivision of nervous system
+UBERON:0004755	skeletal tissue
+UBERON:0004765	skeletal element
+UBERON:0004785	respiratory system mucosa
+UBERON:0004786	gastrointestinal system mucosa
+UBERON:0004802	respiratory tract epithelium
+UBERON:0004807	respiratory system epithelium
+UBERON:0004814	upper respiratory tract epithelium
+UBERON:0004821	pulmonary alveolus epithelium
+UBERON:0004882	eponychium
+UBERON:0004903	bronchoalveolar duct junction
+UBERON:0004904	optic nerve
+UBERON:0004909	epithelium of gonad
+UBERON:0004911	epithelium of female gonad
+UBERON:0004913	hepatopancreatic ampulla
+UBERON:0004921	subdivision of digestive tract
+UBERON:0004923	organ component layer
+UBERON:0005057	immune organ
+UBERON:0005058	hemolymphoid system gland
+UBERON:0005090	muscle structure
+UBERON:0005156	reproductive structure
+UBERON:0005162	multi-cell-component structure
+UBERON:0005172	abdomen organ
+UBERON:0005173	abdominal segment organ
+UBERON:0005174	back organ
+UBERON:0005177	trunk organ
+UBERON:0005178	thoracic cavity organ
+UBERON:0005179	pelvis organ
+UBERON:0005181	thoracic segment organ
+UBERON:0005208	right atrium valve
+UBERON:0005291	embryonic tissue
+UBERON:0005340	dorsal telencephalic commissure
+UBERON:0005384	nasal cavity epithelium
+UBERON:0005388	photoreceptor array
+UBERON:0005399	male reproductive gland
+UBERON:0005418	hindlimb bud
+UBERON:0005420	hindlimb/pelvic fin bud
+UBERON:0005423	developing anatomical structure
+UBERON:0005631	extraembryonic membrane
+UBERON:0005705	primary palate mesenchyme
+UBERON:0005795	embryonic uterus
+UBERON:0005889	zygote cortex
+UBERON:0005904	duct of male reproductive system
+UBERON:0005910	transitional epithelium
+UBERON:0005911	endo-epithelium
+UBERON:0005970	brain commissure
+UBERON:0006122	retrorubral area
+UBERON:0006312	ocular refractive media
+UBERON:0006322	inferior rectus extraocular muscle
+UBERON:0006331	brainstem nucleus
+UBERON:0006518	right lung lobe
+UBERON:0006554	urinary system structure
+UBERON:0006555	excretory tube
+UBERON:0006562	pharynx
+UBERON:0006659	cruciate ligament
+UBERON:0006834	uterus or analog
+UBERON:0006858	adrenal/interrenal gland
+UBERON:0006868	seminal fluid secreting gland
+UBERON:0006914	squamous epithelium
+UBERON:0006925	digestive gland
+UBERON:0006934	sensory epithelium
+UBERON:0007023	adult organism
+UBERON:0007029	surface
+UBERON:0007100	circulatory organ
+UBERON:0007194	vesicular gland
+UBERON:0007195	stroma of bone marrow
+UBERON:0007329	pancreatic duct
+UBERON:0007376	outer epithelial layer
+UBERON:0008198	nail plate
+UBERON:0008837	palmar/plantar part of autopod
+UBERON:0008878	palmar part of hand
+UBERON:0009564	distal limb integumentary appendage
+UBERON:0009661	midbrain nucleus
+UBERON:0009662	hindbrain nucleus
+UBERON:0009663	telencephalic nucleus
+UBERON:0009854	digestive tract diverticulum
+UBERON:0009856	sac
+UBERON:0009872	paired appendage
+UBERON:0009899	pole of cerebral hemisphere
+UBERON:0010039	food storage organ
+UBERON:0010047	oral gland
+UBERON:0010133	neuroendocrine gland
+UBERON:0010147	male accessory sex gland
+UO:0000000	unit
+UO:0000031	minute
+UO:0000032	hour
+UO:0000033	day
+UO:0000046	derived unit
+UO:0000149	derived time unit
+snap:Disposition	disposition
+snap:MaterialEntity	material entity
+snap:Role	role
+snap:SpecificallyDependentContinuant	material property
+span:ProcessualEntity	process

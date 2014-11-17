@@ -1,0 +1,29 @@
+Input data:
+Transription of TFs for set of tissues (tissues x TF's, binary)
+HPAS of TF's for the same set of TF's (tissues x TF's, binary)
+
+Ontology of tissues, v 6 from FANTOM.  
+https://fantom5-collaboration.gsc.riken.jp/files/data/shared/contrib/sample_ontology/FANTOM5v6/FANTOM5v6.obo.zip
+
+Derivated data:
+TF expression and HPAS (tissues x TF's, binary) logical elementwise and for TF expression and HPAS; TF Expression concatenated with HPAS (tissues x (2TF's)) - concatenated binary matrix
+
+Pipeline:
+
+a) Clustering
+First, the tissues were clustered according to Manhattan distance inside each of the data matrices.
+dendrogram_create.r, output includes 4 pdf files and Rda with all the dendrogarams.
+
+
+b) Tests for correspondence of the dedrograms to the ontology.
+
+First, the obo file was converted to incidence matrix (binary, tissuex x categories). The matrix represents the 'is-a' ontology relation, expanded by transitivity.
+
+Then two tests were run for each category and each of the four dendrogams that represent differnt clusterings. 
+i. Fisher's exact test for association of the category to the top-level fork of the tree.
+ii. The same test for each fork in the tree was run recursevily, the result is the minimal p-value.
+
+The results for each tree are represented in the corresponding file nane *.p-values.txt and *.p-values.resursive.txt. The files are sorted by p-value.
+Rows are categories.
+
+The results are also combined in p-values.txt and p-values.resursive.txt. tables. The files are sorted according to the minimal p-value of the category. Columns are: category ID, category name, the p-values for tests: HPAS, concatenated, and, transcription. 
